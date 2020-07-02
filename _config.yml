@@ -1,7 +1,7 @@
 # Site
-name: "Ordina Security"
-title: "Ordina Security"
-description: "We want to share our expertise and opinion on anything Security & Privacy related"
+name: "Cyber Blog"
+title: "Cyber Blog"
+description: "Powered by Ordina"
 logo: 'assets/images/ordina-logo-orange-300px.png'
 favicon: 'assets/images/lordina-logo-orange-300px.png'
 baseurl: ""
