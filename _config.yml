@@ -2,8 +2,8 @@
 name: "Cyber Blog"
 title: "Cyber Blog"
 description: "Powered by Ordina"
-logo: 'assets/images/ordina-logo-orange-300px.png'
-favicon: 'assets/images/lordina-logo-orange-300px.png'
+logo: 'assets/images/Ordina-logo-big.png'
+favicon: 'assets/images/Ordina-logo-small.png'
 baseurl: ""
 #google_analytics: 'UA-46278016-1'
 #disqus: 'demowebsite'
