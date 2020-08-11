@@ -4,7 +4,7 @@
         {% if include.author.inactive %}
         <span class="alumnus-badge" title="{{ ' is no longer working at JWorks' | prepend: include.author.first_name}}">Alumnus</span>
         {% endif %}
-        <img class="p-image team-member-image" src="{{ include.author.avatar }}" alt="{{ include.author.name }}" />
+        <img class="avatar" src="{{ include.author.avatar }}" alt="{{ include.author.name }}" />
     </a>
 </div>
 {% endif %}
