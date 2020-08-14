@@ -4,8 +4,52 @@ title: Team
 permalink: /authors.html
 
 ---
+<style>.mainheading{text-align: center !important;}</style>
+<script src="https://kit.fontawesome.com/4ee49f119e.js" crossorigin="anonymous"></script>
+<div class="cardcontainer">
+    {% for authorEntry in site.data.authors %}
+    {% assign author = authorEntry[1] %}
+    {% if author.inactive != true %}
+    <!-- Get variables from object as string -->
+    {% capture Name %}{{ author.name | handleize }}{% endcapture %}
+    {% capture Image %}{{ author.avatar | handleize }}{% endcapture %}
+    {% capture Description %}{{ author.description | handleize }}{% endcapture %}
+    {% capture LinkedIn %}{{ author.web | handleize }}{% endcapture %}
+    {% capture Mail %}mailto:{{ author.email | handleize }}{% endcapture %}
+    {% capture Twitter %}{{ author.twitter | handleize }}{% endcapture %}
+    {% capture Github %}{{ author.github | handleize }}{% endcapture %}
+    
+    
+    <div class="card-one">
+        <header>
+            <div class="avatar">
+                <img src="{{ Image | asset_url }}" alt="{{ Name | asset_url }}" />
+            </div>
+        </header>
 
-<section class="wrapper spotlight alt style1">
+        <h3>{{ Name | asset_url }}</h3>
+        <div class="desc">
+            {{ Description | asset_url }}
+        </div>
+
+        <footer>
+            <a href="{{ LinkedIn | asset_url }}"><i class="fa fa-linkedin"></i></a>
+            <a href="{{ Mail | asset_url }}"><i class="fa fa-envelope"></i></a>
+            <!-- Check if author has twitter -->
+            {% if author.twitter != null and MyString != "" %}
+            <a href="{{ Twitter | asset_url }}"><i class="fa fa-twitter"></i></a>
+            {% endif %}
+            <!-- Check if author has Github -->
+            {% if author.github != null and MyString != "" %}
+            <a href="{{ Github | asset_url }}"><i class="fa fa-github"></i></a>
+            {% endif %}
+        </footer>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
+
+<!--     <section class="wrapper spotlight alt style1">
     <div class="inner">
         <section class="team">
             {% for authorEntry in site.data.authors %}
@@ -24,4 +68,4 @@ permalink: /authors.html
             {% endfor %}
         </section> 
     </div>
-</section>
+</section> -->
