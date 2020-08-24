@@ -12,6 +12,7 @@ stephanie_gassanova:
   avatar: 'assets/images/Stephanie_Gassanova.jpeg'
   web: https://www.linkedin.com/in/stephanie-gassanova-71351b60/
   email: stephanie.gassanova@ordina.be
+  description: "test"
 kozue_connor:
   name: Kozue Connor
   display_name: Kozue Connor
@@ -26,3 +27,11 @@ emmanouil_perselis:
   web: https://www.linkedin.com/in/emmanouil-perselis-949712190/
   email: emmanouil.perselis@ordina.be
   description: "Ethical Hacker, Security and Privacy Consultant, Programming Teacher and Author."
+  github: "https://github.com/axano"
+tom_degol:
+  name: Tom Degol
+  display_name: Tom Degol
+  avatar: 'assets/images/Tom_Degol.png'
+  web: https://be.linkedin.com/in/tomdegol
+  email: tom.degol@ordina.be
+  description: "TBD"
