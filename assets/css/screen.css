@@ -4,9 +4,16 @@ Copyright: Sal, WowThemes.net, https://www.wowthemes.net
 License: https://www.wowthemes.net/freebies-license/ 
 */
 @media screen and (min-width:1500px) {
-    html { font-size:18px; } /* Increase the font size on higher resolutions */
-    .container {max-width:80%;}
+    html {
+        font-size: 18px;
+    }
+
+    /* Increase the font size on higher resolutions */
+    .container {
+        max-width: 80%;
+    }
 }
+
 .mainheading {
     padding: 1rem 0rem;
 }
@@ -448,7 +455,7 @@ blockquote {
     .listfeaturedtag .wrapfooter {
         position: relative;
         margin-top: 30px;
-        
+
     }
 
     .listfeaturedtag .card-block {
@@ -899,4 +906,168 @@ iframe {
 .lazyimg[data-srcset] {
     opacity: 0;
     transition: opacity .25s;
+}
+
+.avatar {
+    width: 100%;
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.ordinalogo {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    margin: 0 auto;
+}
+
+
+/*======
+    Author cards
+    ======*/
+
+
+.cardcontainer {
+    margin: 30px auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-auto-rows: 1fr;
+    grid-gap: 20px;
+    justify-content: center;
+}
+
+@media only screen and (min-width: 768px) {
+    .cardcontainer {
+      grid-template-columns: 1fr 1fr;
+    }  
+  }
+
+@media only screen and (min-width: 1204px) {
+    .cardcontainer {
+      grid-template-columns: 1fr 1fr 1fr;
+    }  
+  }
+
+  @media only screen and (min-width: 1600px) {
+    .cardcontainer {
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+  }
+
+.card-one {
+    position: relative;
+    width: 297px;
+    background: #fff;
+    box-shadow: 10px 10px 10px -5px rgba(0, 0, 0, 0.3);
+    justify-self: center;
+}
+
+.card-one header {
+    position: relative;
+    width: 100%;
+    height: 60px;
+    background-color: #f58235;
+}
+
+.card-one header::before,
+.card-one header::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: inherit;
+}
+
+.card-one header::before {
+    -webkit-transform: skewY(-8deg);
+    transform: skewY(-8deg);
+    -webkit-transform-origin: 100% 100%;
+    transform-origin: 100% 100%;
+}
+
+.card-one header::after {
+    -webkit-transform: skewY(8deg);
+    transform: skewY(8deg);
+    -webkit-transform-origin: 0 100%;
+    transform-origin: 0 100%;
+}
+
+.card-one header .avatar {
+    position: absolute;
+    left: 50%;
+    top: 30px;
+    margin-left: -50px;
+    z-index: 5;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    background: #ccc;
+    border: 3px solid #fff;
+}
+
+.card-one header .avatar img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: auto;
+}
+
+.card-one h3 {
+    position: relative;
+    margin: 80px 0 30px;
+    text-align: center;
+}
+
+.card-one h3::after {
+    content: '';
+    position: absolute;
+    bottom: -15px;
+    left: 50%;
+    margin-left: -15px;
+    width: 30px;
+    height: 1px;
+    background: #000;
+}
+
+.card-one .desc {
+    padding: 0 1rem 6rem;
+    text-align: center;
+    line-height: 1.5;
+    color: #777;
+}
+
+.card-one footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 1rem;
+    background-color: #58595b;
+    text-align: center;
+}
+
+.card-one footer a {
+    padding: 0 1rem;
+    color: #e2e2e2;
+    -webkit-transition: color .4s;
+    transition: color .4s;
+}
+
+.card-one footer a:hover {
+    color: #f58235;
+}
+
+.card-one footer::before {
+    content: '';
+    position: absolute;
+    top: -27px;
+    left: 50%;
+    margin-left: -15px;
+    border: 15px solid transparent;
+    border-bottom-color: #58595b;
 }

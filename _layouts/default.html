@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<link rel="icon" href="{{ site.baseurl }}/assets/images/Ordina-logo-small.png">
+<link rel="icon" href="{{ site.baseurl }}/assets/images/Favicon-Ordina-v2.png">
 
 <title>{{ page.title }} | {{site.name}}</title>
 
@@ -48,8 +48,9 @@ ga('send', 'pageview');
     <div class="container pr-0">
 
     <!-- Begin Logo -->
-    <a class="navbar-brand" href="https://www.ordina.be/diensten/security-and-privacy/" target="_blank">
-    <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+    <a class="navbar-brand" href="/index.html">
+        Cyber Blog
+   <!--  <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}"> -->
     </a>
     <!-- End Logo -->
 
@@ -75,6 +76,10 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
 
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.baseurl }}/authors.html">Authors</a>
+                </li> 
+
                 {% include search-lunr.html %}
 
             </ul>
@@ -95,10 +100,14 @@ ga('send', 'pageview');
 <!-- Site Title
 ================================================== -->
 <div class="mainheading">
-    <h1 class="sitetitle">{{ site.name }}</h1>
+    <!-- <h1 class="sitetitle">{{ site.name }}</h1> -->
     <p class="lead">
-        {{ site.description }}
+         {{ site.description }} 
     </p>
+    <a href="https://www.ordina.be/diensten/security-and-privacy/" target="_blank"><img class="ordinalogo" src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}"></a>
+    <!--<p class="lead">
+         {{ site.description }} 
+    </p>-->
 </div>
 
 <!-- Content

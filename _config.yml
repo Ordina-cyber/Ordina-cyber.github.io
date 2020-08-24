@@ -1,7 +1,7 @@
 # Site
 name: "Cyber Blog"
 title: "Cyber Blog"
-description: "Powered by Ordina"
+description: "Powered by"
 logo: 'assets/images/Ordina-logo-big.png'
 favicon: 'assets/images/Ordina-logo-small.png'
 baseurl: ""
