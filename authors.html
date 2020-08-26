@@ -36,11 +36,11 @@ permalink: /authors.html
             <a href="{{ LinkedIn | asset_url }}"><i class="fa fa-linkedin"></i></a>
             <a href="{{ Mail | asset_url }}"><i class="fa fa-envelope"></i></a>
             <!-- Check if author has twitter -->
-            {% if author.twitter != null and MyString != "" %}
+            {% if author.twitter != null and author.twitter != "" %}
             <a href="{{ Twitter | asset_url }}"><i class="fa fa-twitter"></i></a>
             {% endif %}
             <!-- Check if author has Github -->
-            {% if author.github != null and MyString != "" %}
+            {% if author.github != null and author.github != "" %}
             <a href="{{ Github | asset_url }}"><i class="fa fa-github"></i></a>
             {% endif %}
         </footer>
