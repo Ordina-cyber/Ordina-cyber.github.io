@@ -35,3 +35,10 @@ tom_degol:
   web: https://be.linkedin.com/in/tomdegol
   email: tom.degol@ordina.be
   description: "TBD"
+maximilian_leire:
+  name: Maximilian Leire
+  display_name: Maximilian Leire
+  avatar: 'assets/images/Maximilian_Leire.jpg'
+  web: https://www.linkedin.com/in/maximilian-leire-473477164/
+  email: maximilian.leire@ordina.be
+  description: "Max is a co-developer of this website. He started working for Ordina last year as a security consultant, his preferred domains are red teaming and vulnerability management."
