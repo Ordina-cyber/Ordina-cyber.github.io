@@ -5,8 +5,8 @@ author: stephanie_gassanova
 categories: [ GDPR ]
 image: assets/images/GDPR.jpg
 description: "GDPR stuff."
-featured: true
-hidden: true
+featured: false
+
 
 ---
 
