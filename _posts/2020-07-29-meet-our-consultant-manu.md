@@ -4,9 +4,9 @@ title:  "Meet our consultant: Emmanouil Perselis"
 author: emmanouil_perselis
 categories: [ our-consultants, interview ]
 image: assets/images/Emmanouil_Perselis.jpg
-description: "GDPR stuff."
-featured: false
-hidden: false
+description: "Meet our consultant - Emmanouil Perselis."
+featured: true
+hidden: true
 
 ---
 

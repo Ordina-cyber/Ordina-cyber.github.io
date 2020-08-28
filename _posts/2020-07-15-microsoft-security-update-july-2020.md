@@ -4,7 +4,7 @@ title:  "Microsoft Security Update July 2020"
 author: maximilian_leire
 categories: [ Microsoft-security-update, Microsoft ]
 image: assets/images/Microsoft-Patch-Tuesday.png
-description: "GDPR stuff."
+description: "Microsoft Security Update July 2020"
 featured: false
 hidden: false
 
