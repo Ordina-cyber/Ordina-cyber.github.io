@@ -23,6 +23,6 @@ If you need any assistance or have any questions regarding digital security of y
  
 
 **Sources**: <br>
-Microsoft (14 July 2020), Release Notes: July 2020 Security Updates. https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2020-Jul <br>
-Microsoft (14 July 2020), CVE-2020-1350: Windows DNS Server Remote Code Execution Vulnerability. https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1350 <br>
-Zero Day Initiative (14 July 2020), The July 2020 Security Update Review. https://www.thezdi.com/blog/2020/7/14/the-july-2020-security-update-review <br>
+<a href="https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2020-Jul"> Microsoft (14 July 2020), Release Notes: July 2020 Security Updates.</a>  <br>
+<a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1350">Microsoft (14 July 2020), CVE-2020-1350: Windows DNS Server Remote Code Execution Vulnerability. </a> <br>
+<a href="https://www.thezdi.com/blog/2020/7/14/the-july-2020-security-update-review">Zero Day Initiative (14 July 2020), The July 2020 Security Update Review. </a> <br>

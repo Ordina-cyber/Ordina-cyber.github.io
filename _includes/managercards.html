@@ -1,15 +1,8 @@
----
-layout: default
-title: Team
-permalink: /authors.html
-
----
-<style>.mainheading{text-align: center !important;}</style>
 <script src="https://kit.fontawesome.com/4ee49f119e.js" crossorigin="anonymous"></script>
 <div class="cardcontainer">
     {% for authorEntry in site.data.authors %}
     {% assign author = authorEntry[1] %}
-    {% if author.inactive != true %}
+    {% if author.name == "Mark Vandenwauver" or author.name == "Anne-Mie Truyen" %}
     <!-- Get variables from object as string -->
     {% capture Name %}{{ author.name | handleize }}{% endcapture %}
     {% capture Image %}{{ author.avatar | handleize }}{% endcapture %}
@@ -19,7 +12,6 @@ permalink: /authors.html
     {% capture Mail %}mailto:{{ author.email | handleize }}{% endcapture %}
     {% capture Twitter %}{{ author.twitter | handleize }}{% endcapture %}
     {% capture Github %}{{ author.github | handleize }}{% endcapture %}
-    
     
     <div class="card-one">
         <header>

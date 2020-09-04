@@ -1,44 +1,65 @@
 # Authors
+mark_vandenwauver:
+  name: Mark Vandenwauver
+  display_name: Mark Vandenwauver
+  avatar: 'assets/images/mark_vandenwauver.jpg'
+  web: https://www.linkedin.com/in/mark-vandenwauver/
+  email: mark.vandenwauver@ordina.be
+  position: CISO, Business Unit Manager
+  description: "Mark is a renowned authority in the area of Cyber Security & IT Risk. He has a unique skill set gained from his 25+ years of experience. Mark will ensure your company operates within its risk appetite and becomes cyber security resilient."
+Anne-Mie_Truyen:
+  name: Anne-Mie Truyen
+  display_name: Anne-Mie Truyen
+  avatar: 'assets/images/Anne-Mie_Truyen.jpg'
+  web: https://www.linkedin.com/in/anne-mietruyen/
+  email: Anne-Mie.Truyen@ordina.be
+  position: Resource Manager
+  description: "HR Business Partner, Change Coach, Empowerment, Bottom Up, HR consultancy, Change Management, Assessment & development centers, Leadership Coaching, Talent Management, Stress and burn-out coaching, HR auditeer "
 joren_jacob:
   name: Joren Jacob
   display_name: Joren Jacob
   avatar: 'assets/images/Joren_Jacob.jpg'
   web: https://www.linkedin.com/in/jorenjacob/
   email: joren.jacob@ordina.be
+  position: Security consultant
   description: "Joren is the dev of this website. He works with Ordina for about 2 years and likes to handle all kinds of security realted topics (ISO27K, Blue teaming, Red teaming, ...)"
-stephanie_gassanova:
-  name: Stephanie Gassanova
-  display_name: Stephanie Gassanova
-  avatar: 'assets/images/Stephanie_Gassanova.jpeg'
-  web: https://www.linkedin.com/in/stephanie-gassanova-71351b60/
-  email: stephanie.gassanova@ordina.be
-  description: "test"
 kozue_connor:
   name: Kozue Connor
   display_name: Kozue Connor
   avatar: 'assets/images/Kozue_Connor.jpg'
   web: https://www.linkedin.com/in/kozueconnor/
   email: kozue.connor@ordina.be
+  position: Risk consultant
   description: "Kozue is an expert in the field of Risk, Business Continuity and Cyber Security Management. She has developed management systems for numerous clients"
-emmanouil_perselis:
-  name: Emmanouil Perselis
-  display_name: Emmanouil Perselis
-  avatar: 'assets/images/Emmanouil_Perselis.jpg'
-  web: https://www.linkedin.com/in/emmanouil-perselis-949712190/
-  email: emmanouil.perselis@ordina.be
-  description: "Ethical Hacker, Security and Privacy Consultant, Programming Teacher and Author."
-  github: "https://github.com/axano"
-tom_degol:
-  name: Tom Degol
-  display_name: Tom Degol
-  avatar: 'assets/images/Tom_Degol.png'
-  web: https://be.linkedin.com/in/tomdegol
-  email: tom.degol@ordina.be
-  description: "TBD"
 maximilian_leire:
   name: Maximilian Leire
   display_name: Maximilian Leire
   avatar: 'assets/images/Maximilian_Leire.jpg'
   web: https://www.linkedin.com/in/maximilian-leire-473477164/
   email: maximilian.leire@ordina.be
-  description: "Max is a co-developer of this website. He started working for Ordina last year as a security consultant, his preferred domains are red teaming and vulnerability management."
+  position: Security consultant
+  description: "Max is a co-developer of this website. He started working for Ordina in 2019 as a security consultant, his preferred domains are red teaming and vulnerability management."
+emmanouil_perselis:
+  name: Emmanouil Perselis
+  display_name: Emmanouil Perselis
+  avatar: 'assets/images/Emmanouil_Perselis.jpg'
+  web: https://www.linkedin.com/in/emmanouil-perselis-949712190/
+  email: emmanouil.perselis@ordina.be
+  position: Security consultant
+  description: "Ethical Hacker, Security and Privacy Consultant, Programming Teacher and Author."
+  github: "https://github.com/axano"
+stephanie_gassanova:
+  name: Stephanie Gassanova
+  display_name: Stephanie Gassanova
+  avatar: 'assets/images/Stephanie_Gassanova.jpg'
+  web: https://www.linkedin.com/in/stephanie-gassanova-71351b60/
+  email: stephanie.gassanova@ordina.be
+  position: Privacy consultant
+  description: "test"
+tom_degol:
+  name: Tom Degol
+  display_name: Tom Degol
+  avatar: 'assets/images/Tom_Degol.jpg'
+  web: https://be.linkedin.com/in/tomdegol
+  email: tom.degol@ordina.be
+  position: Compliance consultant
