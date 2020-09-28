@@ -3,7 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+<!-- Import Roboto font -->
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap" rel="stylesheet">
+<!-- Ordina favicon -->
 <link rel="icon" href="{{ site.baseurl }}/assets/images/Favicon-Ordina-v2.png">
 
 <title>{{ page.title }} | {{site.name}}</title>
@@ -72,12 +74,20 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
                 </li>
 
+                {% if page.url == "/about" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
+                {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
 
+                {% if page.url == "/authors" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/authors.html">Authors</a>
+                {% endif %}
+                    <a class="nav-link" href="{{ site.baseurl }}/authors">Authors</a>
                 </li> 
 
                 {% include search-lunr.html %}
@@ -166,7 +176,7 @@ ga('send', 'pageview');
         <div class="row">
             <div class="col-md-8 col-sm-8 text-center text-lg-left">
                 Copyright © {{ site.time | date: "%Y" }} Ordina Belgium. All rights reserved. <br>
-                Disclaimer: Opinions expressed on this blog reflect the writer's personal views and not the position of Ordina 
+                Disclaimer: Opinions expressed on this blog reflect the writer's personal views and not the position of Ordina.
             </div>
         </div>
     </div>

@@ -286,7 +286,10 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand {
-    font-weight: 500;
+    font-weight: 700;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+    font-size: 1.9em;
 }
 
 .mediumnavigation .dropdown-menu {
@@ -297,6 +300,11 @@ span.post-read-more a:hover {
 .mediumnavigation .nav-item,
 .dropdown-menu {
     font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.mediumnavigation .active {
+    font-weight: 700;
 }
 
 .mediumnavigation .search-icon {
@@ -926,7 +934,6 @@ iframe {
     Author cards
     ======*/
 
-
 .cardcontainer {
     margin: 30px auto;
     display: grid;
@@ -954,23 +961,23 @@ iframe {
     }
   }
 
-.card-one {
+.authorcard {
     position: relative;
     width: 297px;
-    background: #fff;
+    background: rgb(253, 254, 254);
     box-shadow: 10px 10px 10px -5px rgba(0, 0, 0, 0.3);
     justify-self: center;
 }
 
-.card-one header {
+.authorcard header {
     position: relative;
     width: 100%;
     height: 60px;
     background-color: #f58235;
 }
 
-.card-one header::before,
-.card-one header::after {
+.authorcard header::before,
+.authorcard header::after {
     content: '';
     position: absolute;
     top: 0;
@@ -980,21 +987,21 @@ iframe {
     background: inherit;
 }
 
-.card-one header::before {
+.authorcard header::before {
     -webkit-transform: skewY(-8deg);
     transform: skewY(-8deg);
     -webkit-transform-origin: 100% 100%;
     transform-origin: 100% 100%;
 }
 
-.card-one header::after {
+.authorcard header::after {
     -webkit-transform: skewY(8deg);
     transform: skewY(8deg);
     -webkit-transform-origin: 0 100%;
     transform-origin: 0 100%;
 }
 
-.card-one header .avatar {
+.authorcard header .avatar {
     position: absolute;
     left: 50%;
     top: 30px;
@@ -1008,7 +1015,7 @@ iframe {
     border: 3px solid #fff;
 }
 
-.card-one header .avatar img {
+.authorcard header .avatar img {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -1018,14 +1025,14 @@ iframe {
     height: auto;
 }
 
-.card-one h3 {
+.authorcard h3 {
     position: relative;
     margin: 80px 0 30px;
     text-align: center;
     font-size: 28px;
 }
 
-.card-one h3::after {
+.authorcard h3::after {
     content: '';
     position: absolute;
     bottom: -15px;
@@ -1036,7 +1043,7 @@ iframe {
     background: #000;
 }
 
-.card-one .desc {
+.authorcard .desc {
     padding: 0 1rem 6rem;
     text-align: center;
     line-height: 1.5;
@@ -1044,11 +1051,11 @@ iframe {
     font-size: 16px;
 }
 
-.card-one .desc b {
+.authorcard .desc b {
     font-size: 18px;
 }
 
-.card-one footer {
+.authorcard footer {
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -1057,18 +1064,18 @@ iframe {
     text-align: center;
 }
 
-.card-one footer a {
+.authorcard footer a {
     padding: 0 1rem;
     color: #e2e2e2;
     -webkit-transition: color .4s;
     transition: color .4s;
 }
 
-.card-one footer a:hover {
+.authorcard footer a:hover {
     color: #f58235;
 }
 
-.card-one footer::before {
+.authorcard footer::before {
     content: '';
     position: absolute;
     top: -27px;
@@ -1076,4 +1083,13 @@ iframe {
     margin-left: -15px;
     border: 15px solid transparent;
     border-bottom-color: #58595b;
+}
+
+
+/*======
+    About page
+    ======*/
+
+.Abouttext {
+    max-width: 1024px;
 }

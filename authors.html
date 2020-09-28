@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Team
-permalink: /authors.html
+permalink: /authors
 
 ---
 <style>.mainheading{text-align: center !important;}</style>
@@ -21,7 +21,7 @@ permalink: /authors.html
     {% capture Github %}{{ author.github | handleize }}{% endcapture %}
     
     
-    <div class="card-one">
+    <div class="authorcard">
         <header>
             <div class="avatar">
                 <img src="{{ Image | asset_url }}" alt="{{ Name | asset_url }}" />

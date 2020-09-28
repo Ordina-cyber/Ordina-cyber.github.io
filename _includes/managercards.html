@@ -13,7 +13,7 @@
     {% capture Twitter %}{{ author.twitter | handleize }}{% endcapture %}
     {% capture Github %}{{ author.github | handleize }}{% endcapture %}
     
-    <div class="card-one">
+    <div class="authorcard">
         <header>
             <div class="avatar">
                 <img src="{{ Image | asset_url }}" alt="{{ Name | asset_url }}" />
