@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "The interpretation of the Belgian Data Protection Authority of direct marketing in GDPR"
+author: stephanie_gassanova
+categories: [ GDPR ]
+image: assets/images/GDPR.jpg
+description: "The interpretation of the Belgian Data Protection Authority of direct marketing in GDPR"
+featured: false
+hidden: false
+
+
+---
+
+### Recent cases <br>
+
+In June 2020, the Belgian Data Protection Authority (BDPA) issued their first fine to a non-profit organization for not respecting the direct marketing rules of the General Data Protection Regulation (GDPR). Meanwhile another fine was imposed on a different non-profit organization on the same topic. Both cases can be seen as examples of the focus of the BDPA on direct marketing as was already set in the [Strategic Plan 2020-2025](https://www.gegevensbeschermingsautoriteit.be/publications/strategisch-plan-2020-2025.pdf), published in the beginning of this year. In [the most recent case](https://www.autoriteprotectiondonnees.be/publications/decision-quant-au-fond-n-32-2020.pdf) (the 16th of June 2020), the BDPA explicitly confirmed direct marketing is one of the most important areas within their strategic plan. Therefore, we can expect that the BDPA will be further actively investigating the market on possible infringements. The consequence? Administrative fines. Did you miss these events? No worries, we summarize them for you. <br>
+
+In both cases, the non-profit organizations send out promotional communication to the plaintiffs with the purpose of promoting their services. As the plaintiffs did not want to receive any promotional information, they invoked their right to object against the processing of their personal data for direct marketing purposes and asked for an erasure of their personal data. However, both requests were not fulfilled. Moreover, in the second case, the non-profit organization violated their duty of collaborating with the investigation of the BDPA which counted as an aggravating circumstance in calculating their administrative fine. Going into further detail of the first case, the BDPA decided the processing of personal data was unlawful for 2 reasons. Let’s zoom into more detail of the reasoning of the BDPA; <br>
+
+**Firstly**, the organization did not stop the processing in time. In the context of direct marketing, organizations must observe short deadlines when invoking the legal right to object and the erasure of personal data. <br>
+
+**Secondly**, the BDPA decided that the organization did not have a valid legal base for the data processing. According to the non-profit association, it is in their legitimate interest to keep personal data of former donors to send promotional material with the view to advertise their services and raising new funds. However, according to the BDPA this was not proportionate to the rights and freedoms of the individual. It is not clear whether someone can expect 7 years after making a donation to an organization that their personal data would still be processed for direct marketing purposes. Moreover, no real and effective right to object has been provided, which is an essential element when invoking legal ground of legitimate interest. Each direct marketing communication must clearly and unambiguously inform those involved. <br>
+
+Both NPOs got an administrative fine of 1000 euro. The amount is rather small, but the message is clear. Therefore, it is a good time to remind the Direct Marketing Guidelines of the BDPA. Below is a brief overview of the main topics. <br>
+
+### Direct marketing guidelines <br>
+The 80-page recommendation document contains extensive information and considerations for organizations to consider when performing a direct marketing activity. For example, the different roles are explained in the light of direct marketing (controller, processor, etc.), but also the grounds for justification such as consent, legitimate interest of the company, etc. 
+
+ 
+
+The Guidelines contain:
+- Definition of direct marketing (what is covered by this recommendation); 
+- The interaction between direct marketing and protection of personal data. This explains how to act in order to comply with the regulations. In particular; 
+    - The actors and roles in direct marketing (controller, processor, joint controllers); 
+    - Determining processing purposes with special attention to the concept of personal data, the principle of data minimization and keeping control over your data management; 
+    - Defining your processing operations; 
+    - Identifying the data needed to pursue your processing purpose; 
+    - Checking whether you have a valid legal ground. Special attention is paid to the legal grounds for consent and legitimate interest; 
+    - Transparency about the processing operations and how best to transfer information to those involved. 
+
+The full version of the Guidelines can be consulted on the GBA website [(in Dutch)](https://www.gegevensbeschermingsautoriteit.be/publications/aanbeveling-nr.-01-2020.pdf):  
+
+### Conclusion 
+
+The BDPA chooses a broad interpretation of the GDPR in the context of direct marketing. New requirements have been introduced regarding privacy statements, sending of direct marketing communication but also for cookie banners and statements. We expect that the BDPA has not spoken its last word on this topic. Therefore, we recommend organizations to be critical about their direct marketing campaigns. Of course, you can always [consult us](https://www.ordina.be/en/services/security-and-privacy/). We will be able to help you organize your direct marketing campaigns in line with the GDPR. 
