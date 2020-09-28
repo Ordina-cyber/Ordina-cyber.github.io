@@ -7,6 +7,7 @@ mark_vandenwauver:
   email: mark.vandenwauver@ordina.be
   position: CISO, Business Unit Manager
   description: "Mark is a renowned authority in the area of Cyber Security & IT Risk. He has a unique skill set gained from his 25+ years of experience. Mark will ensure your company operates within its risk appetite and becomes cyber security resilient."
+  active: true
 Anne-Mie_Truyen:
   name: Anne-Mie Truyen
   display_name: Anne-Mie Truyen
@@ -15,6 +16,7 @@ Anne-Mie_Truyen:
   email: Anne-Mie.Truyen@ordina.be
   position: Resource Manager
   description: "HR Business Partner, Change Coach, Empowerment, Bottom Up, HR consultancy, Change Management, Assessment & development centers, Leadership Coaching, Talent Management, Stress and burn-out coaching, HR auditeer "
+  active: true
 joren_jacob:
   name: Joren Jacob
   display_name: Joren Jacob
@@ -23,6 +25,7 @@ joren_jacob:
   email: joren.jacob@ordina.be
   position: Security consultant
   description: "Joren is the dev of this website. He works with Ordina for about 2 years and likes to handle all kinds of security realted topics (ISO27K, Blue teaming, Red teaming, ...)"
+  active: true
 kozue_connor:
   name: Kozue Connor
   display_name: Kozue Connor
@@ -31,6 +34,7 @@ kozue_connor:
   email: kozue.connor@ordina.be
   position: Risk consultant
   description: "Kozue is an expert in the field of Risk, Business Continuity and Cyber Security Management. She has developed management systems for numerous clients"
+  active: true
 maximilian_leire:
   name: Maximilian Leire
   display_name: Maximilian Leire
@@ -39,6 +43,7 @@ maximilian_leire:
   email: maximilian.leire@ordina.be
   position: Security consultant
   description: "Max is a co-developer of this website. He started working for Ordina in 2019 as a security consultant, his preferred domains are red teaming and vulnerability management."
+  active: true
 emmanouil_perselis:
   name: Emmanouil Perselis
   display_name: Emmanouil Perselis
@@ -48,6 +53,7 @@ emmanouil_perselis:
   position: Security consultant
   description: "Ethical Hacker, Security and Privacy Consultant, Programming Teacher and Author."
   github: "https://github.com/axano"
+  active: true
 stephanie_gassanova:
   name: Stephanie Gassanova
   display_name: Stephanie Gassanova
@@ -56,10 +62,12 @@ stephanie_gassanova:
   email: stephanie.gassanova@ordina.be
   position: Privacy consultant
   description: "test"
+  active: false
 tom_degol:
   name: Tom Degol
   display_name: Tom Degol
   avatar: 'assets/images/Tom_Degol.jpg'
   web: https://be.linkedin.com/in/tomdegol
   email: tom.degol@ordina.be
-  position: Compliance consultant
+  position: Competence Lead
+  active: true
