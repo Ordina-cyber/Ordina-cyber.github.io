@@ -1,0 +1,399 @@
+I"�?
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Featured</span></h2>
+    </div>
+    <div class="row">
+
+    
+
+        
+
+    
+
+        
+
+    
+
+        
+
+            <!-- begin post -->
+
+<div class="col-md-6 mb-30px">
+    <div class="listfeaturedtag h-100">
+        <div class="row h-100">
+            <div class="col-12 col-md-12 col-lg-5 pr-lg-0">
+                <div class="h-100">
+                    <div class="wrapthumbnail">
+                        <a href="/BCMS-part1/">
+                            
+                            <img class="featured-box-img-cover" src="/assets/images/bc.png" />
+                            
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-12 col-lg-7">
+                <div class="h-100 card-group">
+                    <div class="card">
+                        <div class="card-body">
+                            <h2 class="card-title">
+                                <a class="text-dark" href="/BCMS-part1/">BCMS Part 1: Business Continuity Management is crucial for any type of hazard </a>
+                                
+                            </h2>
+
+                            <h4 class="card-text">In Japan where I used to work, a Business Continuity Management System (BCMS) is a common business function. Due to its geographical setting, Japan has...</h4>
+                        </div>
+                        <div class="card-footer b-0 bg-white mt-auto">
+                            <div class="wrapfooter">
+                                
+                                <span class="meta-footer-thumb">
+                                
+                                <img class="author-thumb" src="/assets/images/Kozue_Connor.jpg" alt="Kozue Connor" />
+                                
+                                </span>
+                                <span class="author-meta">
+                                <span class="post-name"><a target="_blank" href="https://www.linkedin.com/in/kozueconnor/">Kozue Connor</a></span><br />
+                                
+                                <span class="post-date">09 Sep 2020</span>
+                                </span>
+                                <span class="post-read-more"><a href=" /BCMS-part1/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+    
+
+        
+
+    
+
+        
+
+    
+
+        
+
+    
+
+    </div>
+</section>
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+
+    <div class="section-title">
+
+        <h2><span>All Stories</span></h2>
+
+    </div>
+
+    <div class="row listrecent">
+
+        
+
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/meet-our-consultant-manu/">
+                
+
+                    
+                        <img class="img-fluid" src="/assets/images/Emmanouil_Perselis.jpg" alt="Meet our consultant: Emmanouil Perselis" /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/meet-our-consultant-manu/">Meet our consultant: Emmanouil Perselis</a>
+                
+            </h2>
+            <h4 class="card-text">Emmanouil is a talented penetration tester who also has experience in a variety of other cybersecurity areas. Let’s see how he has gotten to this point.   
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="/assets/images/Emmanouil_Perselis.jpg" alt="Emmanouil Perselis" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="https://www.linkedin.com/in/emmanouil-perselis-949712190/">Emmanouil Perselis</a></span><br />
+                
+                <span class="post-date">23 Sep 2020</span>
+                </span>
+                <span class="post-read-more"><a href="/meet-our-consultant-manu/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/microsoft-security-update-september-2020/">
+                
+
+                    
+                        <img class="img-fluid" src="/assets/images/Microsoft-Patch-Tuesday.png" alt="Microsoft Security Update August 2020" /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/microsoft-security-update-september-2020/">Microsoft Security Update August 2020</a>
+                
+            </h2>
+            <h4 class="card-text">This month’s patch fixes 129 known vulnerabilities of which 23 are rated as critical. 
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="/assets/images/Maximilian_Leire.jpg" alt="Maximilian Leire" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="https://www.linkedin.com/in/maximilian-leire-473477164/">Maximilian Leire</a></span><br />
+                
+                <span class="post-date">09 Sep 2020</span>
+                </span>
+                <span class="post-read-more"><a href="/microsoft-security-update-september-2020/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/BCMS-part1/">
+                
+
+                    
+                        <img class="img-fluid" src="/assets/images/bc.png" alt="BCMS Part 1: Business Continuity Management is crucial for any type of hazard " /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/BCMS-part1/">BCMS Part 1: Business Continuity Management is crucial for any type of hazard </a>
+                
+            </h2>
+            <h4 class="card-text">In Japan where I used to work, a Business Continuity Management System (BCMS) is a common business function. Due to its geographical setting, Japan has repeatedly been impacted by natural...</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="/assets/images/Kozue_Connor.jpg" alt="Kozue Connor" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="https://www.linkedin.com/in/kozueconnor/">Kozue Connor</a></span><br />
+                
+                <span class="post-date">09 Sep 2020</span>
+                </span>
+                <span class="post-read-more"><a href="/BCMS-part1/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/microsoft-security-update-august-2020/">
+                
+
+                    
+                        <img class="img-fluid" src="/assets/images/Microsoft-Patch-Tuesday.png" alt="Microsoft Security Update August 2020" /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/microsoft-security-update-august-2020/">Microsoft Security Update August 2020</a>
+                
+            </h2>
+            <h4 class="card-text">This Patch Tuesday provides fixes for 120 vulnerabilities of which 17 are classified as critical and 103 as important. The update also provides a fix for 2 zero-day vulnerabilities that...</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="/assets/images/Maximilian_Leire.jpg" alt="Maximilian Leire" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="https://www.linkedin.com/in/maximilian-leire-473477164/">Maximilian Leire</a></span><br />
+                
+                <span class="post-date">12 Aug 2020</span>
+                </span>
+                <span class="post-read-more"><a href="/microsoft-security-update-august-2020/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/microsoft-security-update-july-2020/">
+                
+
+                    
+                        <img class="img-fluid" src="/assets/images/Microsoft-Patch-Tuesday.png" alt="Microsoft Security Update July 2020" /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/microsoft-security-update-july-2020/">Microsoft Security Update July 2020</a>
+                
+            </h2>
+            <h4 class="card-text">Every second Tuesday of the month, Microsoft releases a security update for all their software products. The update released on 14 July 2020 affects Windows, Microsoft’s web browsers and office...</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="/assets/images/Maximilian_Leire.jpg" alt="Maximilian Leire" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="https://www.linkedin.com/in/maximilian-leire-473477164/">Maximilian Leire</a></span><br />
+                
+                <span class="post-date">15 Jul 2020</span>
+                </span>
+                <span class="post-read-more"><a href="/microsoft-security-update-july-2020/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/marketing-in-GDPR/">
+                
+
+                    
+                        <img class="img-fluid" src="/assets/images/GDPR.jpg" alt="The interpretation of the Belgian Data Protection Authority of direct marketing in GDPR " /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/marketing-in-GDPR/">The interpretation of the Belgian Data Protection Authority of direct marketing in GDPR </a>
+                
+            </h2>
+            <h4 class="card-text">TEST
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="/assets/images/Stephanie_Gassanova.jpg" alt="Stephanie Gassanova" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="https://www.linkedin.com/in/stephanie-gassanova-71351b60/">Stephanie Gassanova</a></span><br />
+                
+                <span class="post-date">03 Jul 2020</span>
+                </span>
+                <span class="post-read-more"><a href="/marketing-in-GDPR/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+    </div>
+
+</section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    
+</span>
+</div>
+
+:ET
