@@ -1,4 +1,4 @@
-I"<<style>.mainheading{text-align: center !important;}</style>
+I"Z<style>.mainheading{text-align: center !important;}</style>
 
 <script src="https://kit.fontawesome.com/4ee49f119e.js" crossorigin="anonymous"></script>
 
@@ -236,41 +236,6 @@
     
     
     
-    <!-- Get variables from object as string -->
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <div class="card-one">
-        <header>
-            <div class="avatar">
-                <img src="assets/images/Stephanie_Gassanova.jpg" alt="Stephanie Gassanova" />
-            </div>
-        </header>
-
-        <h3>Stephanie Gassanova</h3>
-        <div class="desc">
-            <b>Privacy consultant</b>
-            <br /><br />
-            test
-        </div>
-
-        <footer>
-            <a href="https://www.linkedin.com/in/stephanie-gassanova-71351b60/"><i class="fa fa-linkedin"></i></a>
-            <a href="mailto:stephanie.gassanova@ordina.be"><i class="fa fa-envelope"></i></a>
-            <!-- Check if author has twitter -->
-            
-            <!-- Check if author has Github -->
-            
-        </footer>
-    </div>
-    
     
     
     
@@ -294,9 +259,9 @@
 
         <h3>Tom Degol</h3>
         <div class="desc">
-            <b>Compliance consultant</b>
+            <b>Competence Lead</b>
             <br /><br />
-            
+            Competence Lead specialized in Information Security Management, Risk Management and Compliance. Implementing or checking the rules of the 'Cybersecurity Compliance Game' in order to enhance a company's level of resilience. Always motivated, enthousiastic and eager to accept new challenges. Crossfit athelete; bloge-trotter and 'social people pleaser' outside business hours.
         </div>
 
         <footer>

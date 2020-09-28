@@ -24,7 +24,7 @@ joren_jacob:
   web: https://www.linkedin.com/in/jorenjacob/
   email: joren.jacob@ordina.be
   position: Security consultant
-  description: "Joren is the dev of this website. He works with Ordina for about 2 years and likes to handle all kinds of security realted topics (ISO27K, Blue teaming, Red teaming, ...)"
+  description: "Joren likes to handle all kinds of security related topics, going from ISO27K & compliance to blue teaming and red teaming. As a schooled Software Engineer, he also likes programming. He is the developper of this blog."
   active: true
 kozue_connor:
   name: Kozue Connor
@@ -42,7 +42,7 @@ maximilian_leire:
   web: https://www.linkedin.com/in/maximilian-leire-473477164/
   email: maximilian.leire@ordina.be
   position: Security consultant
-  description: "Max is a co-developer of this website. He started working for Ordina in 2019 as a security consultant, his preferred domains are red teaming and vulnerability management."
+  description: "Max started working for Ordina in 2019 as a security consultant, his preferred domains are red teaming and vulnerability management. He is the co-developper of this blog."
   active: true
 emmanouil_perselis:
   name: Emmanouil Perselis
@@ -61,7 +61,7 @@ stephanie_gassanova:
   web: https://www.linkedin.com/in/stephanie-gassanova-71351b60/
   email: stephanie.gassanova@ordina.be
   position: Privacy consultant
-  description: "test"
+  description: "Stephanie no longer works for Ordina Belgium"
   active: false
 tom_degol:
   name: Tom Degol
@@ -70,4 +70,5 @@ tom_degol:
   web: https://be.linkedin.com/in/tomdegol
   email: tom.degol@ordina.be
   position: Competence Lead
+  description: "Competence Lead specialized in Information Security Management, Risk Management and Compliance. Implementing or checking the rules of the 'Cybersecurity Compliance Game' in order to enhance a company's level of resilience. Always motivated, enthousiastic and eager to accept new challenges. Crossfit athelete; bloge-trotter and 'social people pleaser' outside business hours."
   active: true
