@@ -38,7 +38,14 @@
                 {% endif %}
                 </span>
                 <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="{{ author.web }}">{{ author.display_name }}</a></span><br/>
+
+                <!-- Change name to inactive on hover when person left Ordina -->
+                {% if author.active %}     
+                    <span class="post-name"><a target="_blank" href="{{ author.web }}">{{ author.display_name }}</a></span><br/>
+                {% else %}
+                    <span class="post-name"><a target="_blank" href="#" onclick="return false;" onmouseover="this.innerHTML = 'Author no longer active at Ordina';" onmouseout ="this.innerHTML = '{{ author.display_name }}';">{{ author.display_name }}</a></span><br/>
+                {% endif %}
+                
                 {% endif %}
                 <span class="post-date">{{ post.date | date_to_string }}</span>
                 </span>

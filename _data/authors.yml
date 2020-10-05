@@ -58,10 +58,10 @@ stephanie_gassanova:
   name: Stephanie Gassanova
   display_name: Stephanie Gassanova
   avatar: 'assets/images/Stephanie_Gassanova.jpg'
-  web: https://www.linkedin.com/in/stephanie-gassanova-71351b60/
+  web:
   email: stephanie.gassanova@ordina.be
   position: Privacy consultant
-  description: "Stephanie no longer works for Ordina Belgium"
+  description:
   active: false
 tom_degol:
   name: Tom Degol

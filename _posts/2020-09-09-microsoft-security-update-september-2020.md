@@ -6,7 +6,7 @@ categories: [ Microsoft-security-update, Microsoft ]
 image: assets/images/Microsoft-Patch-Tuesday.png
 description: "Microsoft Security Update September 2020"
 featured: true
-hidden: true
+hidden: false
 
 ---
 

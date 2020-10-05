@@ -32,9 +32,18 @@ post_class: post-template
                         {% endif %}
                     </div>
                     <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-                        <a target="_blank" class="link-dark" >{{ author.display_name }}</a><a target="_blank" href="{{ author.web }}" class="btn follow">LinkedIn</a>
+                        <a target="_blank" class="link-dark" >{{ author.display_name }}</a>
+                        
+                        <!-- If author still works for Ordina show linkedin + description -->
                         {% if author.active %}
+                        <a target="_blank" href="{{ author.web }}" class="btn follow">LinkedIn</a>
+                        
                         <span class="author-description">{{ author.description }}</span>
+                        <!-- If not active: hide linkedin and state author is no longer working for Ordina -->
+                        {% else %}
+                        <br>
+                        <span class="author-description">Author no longer works for Ordina Belgium.</span>
+
                         {% endif %}
                     </div>
                 </div>
