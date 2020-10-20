@@ -29,4 +29,4 @@ Additionally, management can also improve the audit perception by demonstrating 
 
 And third, by hiring qualified and professional auditors, the overall experience of the audit will improve as well. Auditors being trained to be an auditor by following trainings, obtaining certificates and having experience will know better how to complete an audit successfully and how to deal with the auditees in a professional way. <br>
 
-Of course, if you need a helping hand, [we]https://www.ordina.be/en/services/security-and-privacy/) can perform an audit for you in a professional and smooth way, with respect for your employees and environment! :) 
+Of course, if you need a helping hand, [we](https://www.ordina.be/en/services/security-and-privacy/) can perform an audit for you in a professional and smooth way, with respect for your employees and environment! :) 
