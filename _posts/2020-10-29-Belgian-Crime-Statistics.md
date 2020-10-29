@@ -18,7 +18,7 @@ The only statistic that goes against this trend is IT related crime, the *inform
 
 The elegant styling of the federal police aside, in the overview below, we can see the total number of (reported) crimes containing an IT element committed in the period of  2009-2019. There is a definitive rising trend, with 2009 having 23,347 cases, 2015 having 40,713 (almost double), and 2019 with an all-time high of 64,918 cases.
 
-<img src="img\image1.png"/>
+<img src="../assets/images/Posts/Statistics/image1.png"/>
 
 By law, IT crime is defined in different categories. Each have their own definitions and distinctive penalties. Next to that, the report lists statistics on criminal figures. These criminal figures cannot be counted together since one criminal fact/statistic can generate more than one criminal figure.
 
@@ -26,7 +26,7 @@ The four major legal categories in Belgian criminal law are as follows: hacking,
 
 The criminal figures used in the report are payment card fraud, shoulder surfing, skimming, phishing, and ransomware. Now we can see why we cannot make the sum of the criminal figures because, for example, skimming is specific form of payment card fraud.
 
-<img src="img\image2.png"/>
+<img src="../assets/images/Posts/Statistics/image2.png"/>
 
 Phishing barely registered over fifty cases in 2009. In 2019, the reported cases rose sharply to 2,365, representing a growth of more than 4,700% over ten years. Particularly, the number rose in both 2018 and 2019.
 
