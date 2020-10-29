@@ -72,3 +72,12 @@ tom_degol:
   position: Competence Lead
   description: "Competence Lead specialized in Information Security Management, Risk Management and Compliance. Implementing or checking the rules of the 'Cybersecurity Compliance Game' in order to enhance a company's level of resilience. Always motivated, enthousiastic and eager to accept new challenges. Crossfit athlete; globe-trotter and 'social people pleaser' outside business hours."
   active: true
+bert_vervust:
+  name: Bert Vervust
+  display_name: Bert Vervust
+  avatar: 'assets/images/Bert_Vervust.jpg'
+  web: https://www.linkedin.com/in/bert-vervust/
+  email: bert.vervust@ordina.be
+  position: Security consultant
+  description: "Cyber security enthusiast"
+  active: true
