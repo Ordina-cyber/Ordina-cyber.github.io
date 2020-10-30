@@ -6,7 +6,7 @@ categories: [ Microsoft-security-update, Microsoft ]
 image: assets/images/Microsoft-Patch-Tuesday.png
 description: "Microsoft Security Update October 2020"
 featured: false
-hidden: true
+hidden: false
 ---
 
 As every second Tuesday of the month, the Microsoft security patch has arrived. This month’s patch brings fixes for 87 vulnerabilities, 11 of which are rated critical and 75 are listed as important. There are less vulnerabilities disclosed this month but this is definitely not a reason to let your guard down as there are a few severe bugs that we’ll talk about below that require your immediate attention. 
