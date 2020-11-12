@@ -5,7 +5,7 @@ author: tom_degol
 categories: [ Audit, Compliance ]
 image: assets/images/audit.jpg
 description: "The perception of audit"
-featured: true
+featured: false
 hidden: false
 ---
  
