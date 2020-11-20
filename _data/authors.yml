@@ -81,3 +81,12 @@ bert_vervust:
   position: Security consultant
   description: "Cyber security enthusiast"
   active: true
+gabriela_cioce:
+  name: Gabriela Cioce
+  display_name: Gabriela Cioce
+  avatar: 'assets/images/Gabriela_Cioce.jpg'
+  web: https://www.linkedin.com/in/gabriela-cioce-534b1145/ 
+  email: gabriela.cioce@ordina.be
+  position: Security Consultant
+  description: Passionate about Cyber Security, Languages, Travel, Family and Squash!
+  active: true 

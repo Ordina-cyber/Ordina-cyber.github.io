@@ -5,7 +5,7 @@ author: bert_vervust
 categories: [ Cybercrime ]
 image: assets/images/serverroom.jpg
 description: "Belgian ICT crime statistics 2000-2019"
-featured: true
+featured: false
 hidden: false
 ---
 
