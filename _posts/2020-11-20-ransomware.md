@@ -5,7 +5,7 @@ author: gabriela_cioce
 categories: [ ransomware ]
 image: assets/images/Ransomware.jpg
 description: "The perception of audit"
-featured: true
+featured: false
 hidden: false
 ---
 Do we understand at all levels the importance of Cyber Security nowadays? For some, Cyber Security and its awareness is well understood, for others, it is yet a work in process. <br>
