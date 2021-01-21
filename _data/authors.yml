@@ -89,4 +89,13 @@ gabriela_cioce:
   email: gabriela.cioce@ordina.be
   position: Security Consultant
   description: Passionate about Cyber Security, Languages, Travel, Family and Squash!
-  active: true 
+  active: true
+amir_oulad:
+  name: Amir Oulad
+  display_name: Amir Oulad
+  avatar: 'assets/images/Amir_Oulad.jpg'
+  web: https://www.linkedin.com/in/%F0%9F%92%AC-amir-oulad-cissp-00a29091/ 
+  email: amir.oulad@ordina.be
+  position: Security Consultant
+  description: Cyber security, VM & Incident management, Compliance, SDLC, Change Management, Enabler & Motivator, Computer System Validation, Quality Control, Validation 
+  active: true
