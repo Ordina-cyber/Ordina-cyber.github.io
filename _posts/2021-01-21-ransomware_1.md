@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ransomware: “Another one bites the dust”"
-author: kozue_connor
+author: amir_oulad
 categories: [ransomware, cybercrime]
 image: assets/images/ransomware.jpg
 description: "Ransomware post 1: “Another one bites the dust”"
