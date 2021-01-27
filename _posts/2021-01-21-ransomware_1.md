@@ -9,7 +9,7 @@ featured: true
 hidden: false
 ---
 
-“Another one bites the dust” by Queen – it is one of my favorite songs and coincidentally one of my first thoughts when I hear that another organization has fallen victim to a ransomware. Numerous major companies fell victim to ransomware in 2020. One would believe that only large international organizations are being targeted; Unfortunately also small/medium sized companies, governments, educational institutions and even hospitals have been hit by ransomware. 
+“Another one bites the dust” by Queen – it is one of my favorite songs and coincidentally one of my first thoughts when I hear that another organization has fallen victim to a ransomware attack. Numerous major companies fell victim to ransomware in 2020. One would believe that only large international organizations are being targeted; Unfortunately also small/medium sized companies, governments, educational institutions and even hospitals have been hit by ransomware. 
 
 Ransomware is a type of malware (malicious software) that encrypts the computer files of the victim with an unguessable password. Without this password, the victim is unable to access his/her files. The cybercriminal demands a ransom for the password. 
 
