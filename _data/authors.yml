@@ -99,3 +99,12 @@ amir_oulad:
   position: Security Consultant
   description: Cyber security, VM & Incident management, Compliance, SDLC, Change Management, Enabler & Motivator, Computer System Validation, Quality Control, Validation 
   active: true
+thomas_driessen:
+  name: Thomas Driessen
+  display_name: Thomas Driessen
+  avatar: 'assets/images/Thomas_Driessen.jfif'
+  web: https://www.linkedin.com/in/driessenthomas/ 
+  email: thomas.driessen@ordina.be
+  position: Security Consultant
+  description:
+  active: true
