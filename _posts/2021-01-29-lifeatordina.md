@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "How is Ordina Life?"
+title:  "What is life like at Ordina?"
 author: thomas_driessen
 categories: [Ordina]
 image: assets/images/ordinalogo_dark.png
-description: "How is Ordina Life?"
+description: "What is life like at Ordina?"
 featured: true
 hidden: false
 ---
@@ -15,7 +15,7 @@ After completing his master degree, Thomas joined Ordina Security and Privacy un
 I have attained a Master of Business Administration, with a specialization in Business Information Management at KU Leuven. Ordina is my first employer, as I have chosen to start my professional career here as a Cyber Security Consultant.
 
 #### What made you choose Ordina?
-As most people, I haven’t put all my eggs into one basket during the job hunt. I applied to other companies in addition to Ordina as well. That gave me the opportunity to make the comparison. Ordina stood out in terms of their personal and human way of approaching their applicants. I know it might sound as a cliché, but it was the first company that didn’t make me feel like just one of many, while they are still being a big player. Besides all the benefits Ordina offered, the interpersonal aspect really stood out. Now I can tell you this: I haven’t regretted my decision since.
+As most people, I didn’t put all my eggs into one basket during the job hunt. I applied to other companies in addition to Ordina as well. That gave me the opportunity to make the comparison. Ordina stood out in terms of their personal and human way of approaching their applicants. I know it might sound as a cliché, but it was the first company that didn’t make me feel like just one of many, while they are still being a big player. Besides all the benefits Ordina offered, the interpersonal aspect really stood out. Now I can tell you this: I haven’t regretted my decision since.
 
 
 #### How has your time been in the first few months at Ordina?
