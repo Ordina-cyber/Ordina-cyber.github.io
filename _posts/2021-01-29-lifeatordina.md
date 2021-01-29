@@ -3,7 +3,7 @@ layout: post
 title:  "How is Ordina Life?"
 author: thomas_driessen
 categories: [Ordina]
-image: assets/images/Logo_rgb.PNG
+image: assets/images/Logo_rgb.png
 description: "How is Ordina Life?"
 featured: true
 hidden: false
