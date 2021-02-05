@@ -5,7 +5,7 @@ author: amir_oulad
 categories: [ransomware, cybercrime]
 image: assets/images/ransomware.jpg
 description: "Ransomware post 1: “Another one bites the dust”"
-featured: true
+featured: false
 hidden: false
 ---
 
