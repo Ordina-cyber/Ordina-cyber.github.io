@@ -5,7 +5,7 @@ author: thomas_driessen
 categories: [Ordina]
 image: assets/images/ordinalogo_dark.png
 description: "What is life like at Ordina?"
-featured: true
+featured: false
 hidden: false
 ---
 
