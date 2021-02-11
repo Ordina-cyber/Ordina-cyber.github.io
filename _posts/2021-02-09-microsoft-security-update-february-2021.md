@@ -42,4 +42,5 @@ Furthermore while preparing to install the patches these three security issues, 
 For a list of all vulnerabilities that were disclosed this month [go here](https://msrc.microsoft.com/update-guide).
 For Microsoft's blogpost about the TCP/IP vulnerabilities [go here](https://msrc-blog.microsoft.com/2021/02/09/multiple-security-updates-affecting-tcp-ip/).
 
-### If you need any assistance or have any questions regarding cybersecurity within your company, don’t hesitate to [contact us](https://www.ordina.be/diensten/security-and-privacy/).
+
+### If you need any assistance or have any questions regarding cybersecurity within your company, donâ€™t hesitate to [contact us](https://www.ordina.be/diensten/security-and-privacy/).
