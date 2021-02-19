@@ -5,7 +5,7 @@ author: amir_oulad
 categories: [ransomware, cybercrime]
 image: assets/images/ransomware.jpg
 description: "Ransomware post 2: So….what can be done against ransomware"
-featured: true
+featured: false
 hidden: false
 ---
 
