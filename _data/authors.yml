@@ -98,13 +98,22 @@ amir_oulad:
   email: amir.oulad@ordina.be
   position: Security Consultant
   description: Cyber security, VM & Incident management, Compliance, SDLC, Change Management, Enabler & Motivator, Computer System Validation, Quality Control, Validation 
-  active: true
+  active: false
 thomas_driessen:
   name: Thomas Driessen
   display_name: Thomas Driessen
   avatar: 'assets/images/Thomas_Driessen.jfif'
   web: https://www.linkedin.com/in/driessenthomas/ 
   email: thomas.driessen@ordina.be
+  position: Security Consultant
+  description:
+  active: true
+joshua_adshead:
+  name: Joshua Adshead
+  display_name: Joshua Adshead
+  avatar: 'assets/images/Joshua_Adshead.png'
+  web: https://www.linkedin.com/in/joshua-adshead-558230b7/ 
+  email: joshua.adshead@ordina.be
   position: Security Consultant
   description:
   active: true
