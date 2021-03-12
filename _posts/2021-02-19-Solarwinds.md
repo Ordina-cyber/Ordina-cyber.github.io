@@ -5,7 +5,7 @@ author: joshua_adshead
 categories: [ cybercrime ]
 image: assets/images/worldnight.jpg
 description: "Looking back on the SolarWinds Fallout"
-featured: true
+featured: false
 hidden: false
 ---
 
