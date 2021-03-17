@@ -5,7 +5,7 @@ author: amir_oulad
 categories: [ransomware, cybercrime]
 image: assets/images/ransomware.jpg
 description: "Ransomware part 3: If you became victim of a ransomware"
-featured: true
+featured: false
 hidden: false
 ---
 
