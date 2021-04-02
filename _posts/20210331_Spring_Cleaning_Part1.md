@@ -3,7 +3,7 @@ layout: post
 title:  "Spring cleaning: keep your “digital home” safe and clean"
 author: olga_danilova
 categories: [ personal-security ]
-image: assets/images/spring.png
+image: assets/images/spring.jpg
 description: "Spring is here – time to do a big spring clean-up. I’m referring to your “digital home”. Is your cyber hygiene up to date?"
 featured: true
 hidden: false
