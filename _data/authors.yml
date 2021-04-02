@@ -117,3 +117,12 @@ joshua_adshead:
   position: Security Consultant
   description: Josh began his career at Ordina in 2020 as a Security Consultant. Enthusiastic, Motivated and Passionate about Cyber Security and eager to help with any issues.
   active: true
+olga_danilova:
+  name: Olga Danilova
+  display_name: Olga Danilova
+  avatar: 'assets/images/Olga_Danilova.png'
+  web: https://www.linkedin.com/in/olga-danilova-a03430158
+  email: olga.danilova@ordina.be
+  position: Security Consultant
+  description: Olga is a security&privacy consultant with a broad international experience. She is author and trainer in different subjects. Her passion for cyber security keeps on growing and she is now specializing in risk management, vendor security assessment and security education among other things.
+  active: true
