@@ -126,3 +126,12 @@ olga_danilova:
   position: Security Consultant
   description: Olga is a security&privacy consultant with a broad international experience. She is author and trainer in different subjects. Her passion for cyber security keeps on growing and she is now specializing in risk management, vendor security assessment and security education among other things.
   active: true
+marnick_vandecauter:
+  name: Marnick Vandecauter
+  display_name: Marnick Vandecauter
+  avatar: 'assets/images/no_image.png'
+  web: https://www.linkedin.com/in/mvdc/
+  email: marnick.vandecauter@ordina.be
+  position: Security Consultant
+  description: Marnick is a security fanatic who wants to make the world a better and more secure place for everyone.
+  active: true
