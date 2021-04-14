@@ -5,7 +5,7 @@ author: olga_danilova
 categories: [ personal-security ]
 image: assets/images/spring.jpg
 description: "Spring is here – time to do a big spring clean-up. I’m referring to your “digital home”. Is your cyber hygiene up to date?"
-featured: true
+featured: false
 hidden: false
 ---
 
