@@ -3,7 +3,7 @@ layout: post
 title:  "How did ransomware get so bad?"
 author: gabriela_cioce
 categories: [ ransomware ]
-image: assets/images/Ransomware.jpg
+image: assets/images/ransomware.jpg
 description: "The perception of audit"
 featured: false
 hidden: false
