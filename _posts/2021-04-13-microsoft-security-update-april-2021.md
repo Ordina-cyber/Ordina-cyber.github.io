@@ -20,7 +20,7 @@ A vulnerability like this can be disastrous when combined with malware. Maliciou
 Be sure to apply this fix as soon as you can.
 
 
-## [CVE-2021-28480](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-28480) - [CVE-2021-28483](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-28483) | Win32k Elevation of Privilege Vulnerability
+## [CVE-2021-28480](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-28480) - [CVE-2021-28483](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-28483) | Microsoft Exchange Server Remote Code Execution Vulnerability
 
 * [CVE-2021-28480](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-28480)
 * [CVE-2021-28481](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-28481)
