@@ -17,7 +17,7 @@ This is the CVE that is being actively exploited at the moment. This bug allows 
 
 A vulnerability like this can be disastrous when combined with malware. Malicious software ran with administrative privileges can potentially do far more damage than a normal user account could. Using this exploit an attacker could elevate the rights with which the malware is ran even if the compromised user only has restricted privileges.
 
-Be sure to apply this fix as soon as you can.
+Since this vulnerability has been reported currently being exploited, be sure to apply this fix as soon as you can.
 
 
 ## [CVE-2021-28480](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-28480) - [CVE-2021-28483](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-28483) | Microsoft Exchange Server Remote Code Execution Vulnerability
