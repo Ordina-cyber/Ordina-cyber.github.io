@@ -5,7 +5,7 @@ author: marnick_vandecauter
 categories: [ personal-security ]
 image: assets/images/spring.jpg
 description: "In this second installment of the spring cleaning, we will be guiding you through tips for protecting yourself from your software."
-featured: true
+featured: false
 hidden: false
 ---
 
