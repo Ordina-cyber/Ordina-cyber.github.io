@@ -135,3 +135,12 @@ marnick_vandecauter:
   position: Security Consultant
   description: Marnick is a security fanatic who wants to make the world a better and more secure place for everyone.
   active: true
+thomas_hayen:
+  name: Thomas Hayen
+  display_name: Thomas Hayen
+  avatar: 'assets/images/Thomas_Hayen.jpg'
+  web: https://www.linkedin.com/in/thomashayen/
+  email: thomas.hayen@ordina.be
+  position: Security Intern
+  description: Thomas is an intern looking to expand his red teaming expertise during his time at Ordina.
+  active: true

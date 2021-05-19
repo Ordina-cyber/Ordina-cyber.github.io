@@ -5,7 +5,7 @@ author: olga_danilova
 categories: [ personal-security ]
 image: assets/images/spring.jpg
 description: "With this 3rd part of the spring cleaning series, we are finishing our cyber clean-up."
-featured: true
+featured: false
 hidden: false
 ---
 
