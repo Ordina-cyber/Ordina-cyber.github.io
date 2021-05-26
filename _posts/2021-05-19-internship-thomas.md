@@ -16,7 +16,7 @@ I am 23 years of age and am currently studying Cloud & Cybersecurity in Thomas M
 
 ### What made you choose Ordina?
 While searching for an internship, I came across Ordina and their Security & Privacy unit. During the first meeting, the Resource Manager Anne-Mie told me a lot about working in the unit, and I had a great feeling about doing an internship within Ordina. 
-During the second meeting, colleagues including my mentor Emmanouil proposed some internship assignments which included Web Application Penetration Testing and Vulnerability Management. They asked my personal preference to which I instantly responded with the Web Application Penetration Testing assignment. This was a topic in which I see myself proceed professionally and which, of course, interest me the most. 
+During the second meeting, colleagues including my mentor Emmanouil proposed some internship assignments which included Web Application Penetration Testing and Vulnerability Management. They asked my personal preference to which I instantly responded with the Web Application Penetration Testing assignment. This was a topic in which I see myself proceed professionally and which, of course, interests me the most. 
 
 ### How has your time been at Ordina?
 I am really enjoying it. I feel that I am being entrusted with a lot of tasks which give me confidence in my own doing. From the start, I have felt welcome in the group, Emmanouil and all the rest have made sure of that! When I had any questions, they would be answered within minutes. A shame that COVID-19 made it impossible to work from the office as I would have wanted to meet more people face to face within the Security & Privacy unit! 

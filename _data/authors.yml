@@ -144,3 +144,12 @@ thomas_hayen:
   position: Security Intern
   description: Thomas is an intern looking to expand his red teaming expertise during his time at Ordina.
   active: true
+robin_bruynseels:
+  name: Robin Bruynseels
+  display_name: Robin Bruynseels
+  avatar: 'assets/images/Robin_Bruynseels.jpg'
+  web: https://www.linkedin.com/in/robin-bruynseels-708021163/
+  email: robin.bruynseels@ordina.be
+  position: Security Intern
+  description: Robin is studying Cloud and Cybersecurity at his university. To conclude his achievement, he had an internship at Ordina Security & Privacy unit.
+  active: true
