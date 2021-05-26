@@ -3,7 +3,7 @@ layout: post
 title:  "My internship at Ordina: Robin Bruynseels"
 author: robin_bruynseels
 categories: [ interview, Ordina ]
-image: assets/images/ordina-vlaggen.jpg
+image: assets/images/ordina-vlaggen-2.jpeg
 description: "We ask Robin Bruynseels what his internship at Ordina was like."
 featured: true
 hidden: false
