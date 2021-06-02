@@ -5,7 +5,7 @@ author: thomas_hayen
 categories: [ interview, Ordina ]
 image: assets/images/ordina-vlaggen.jpg
 description: "We ask Thomas Hayen what his internship at Ordina was like."
-featured: true
+featured: false
 hidden: false
 ---
 
