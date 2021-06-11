@@ -12,12 +12,12 @@ hidden: false
 Microsoft released patches for 50 CVEs this month, 5 are rated as critical and the others as important. An unusually high amount of bugs are reported to be publicly exploited at this moment, 6 to be exact of which 3 are publicly known. 
 
 The six currently exploited vulnerabilities are:
-* [CVE-2021-33742](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-33742) | Windows MSHTML Platform Remote Code Execution Vulnerability
-* [CVE-2021-33739](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-33739) | Microsoft DWM Core Library Elevation of Privilege Vulnerability
-* [CVE-2021-31199](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-31199) | Microsoft Enhanced Cryptographic Provider Elevation of Privilege Vulnerability
-* [CVE-2021-31201](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-31201) | Microsoft Enhanced Cryptographic Provider Elevation of Privilege Vulnerability
-* [CVE-2021-31955](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-31955) | Windows Kernel Information Disclosure Vulnerability
-* [CVE-2021-31956](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-31956) | Windows NTFS Elevation of Privilege Vulnerability
+* [CVE-2021-33742](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-33742) - Windows MSHTML Platform Remote Code Execution Vulnerability
+* [CVE-2021-33739](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-33739) - Microsoft DWM Core Library Elevation of Privilege Vulnerability
+* [CVE-2021-31199](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-31199) - Microsoft Enhanced Cryptographic Provider Elevation of Privilege Vulnerability
+* [CVE-2021-31201](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-31201) - Microsoft Enhanced Cryptographic Provider Elevation of Privilege Vulnerability
+* [CVE-2021-31955](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-31955) - Windows Kernel Information Disclosure Vulnerability
+* [CVE-2021-31956](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-31956) - Windows NTFS Elevation of Privilege Vulnerability
 
 
 ### [CVE-2021-33742](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-33742) | Windows MSHTML Platform Remote Code Execution Vulnerability
