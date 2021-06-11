@@ -5,7 +5,7 @@ author: robin_bruynseels
 categories: [ interview, Ordina ]
 image: assets/images/ordina-vlaggen-2.jpeg
 description: "We ask Robin Bruynseels what his internship at Ordina was like."
-featured: true
+featured: false
 hidden: false
 ---
 
