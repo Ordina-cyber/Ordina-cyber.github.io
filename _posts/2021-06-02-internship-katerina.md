@@ -5,7 +5,7 @@ author: katerina_stavrinoudis
 categories: [ interview, Ordina ]
 image: assets/images/ordina-mechelen.jpg
 description: "We ask Katerina Stavrinoudis what her internship at Ordina was like."
-featured: true
+featured: false
 hidden: false
 ---
 
