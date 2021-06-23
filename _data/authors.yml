@@ -162,3 +162,12 @@ katerina_stavrinoudis:
   position: Security Intern
   description: Katerina is a university student who studies Computer Science. She will be joining Ordina full time in September.
   active: true
+dorien_paesen:
+  name: Dorien Paesen
+  display_name: Dorien Paesen
+  avatar: 'assets/images/Dorien_Paesen.jpg'
+  web: https://www.linkedin.com/in/dorienpaesen/
+  email: dorien.paesen@ordina.be
+  position: Security Consultant
+  description: Back in 2019, Dorien decided to follow her passion and made the switch from Test Engineer to Security Consultant. She mainly performs ISO 27K audits and helps the client reach compliance towards this standard.
+  active: true
