@@ -22,13 +22,13 @@ Even though every project is different, the following characteristics are always
 
 ## You are assigned as the Project Manager: how to get started?
 The actual management of a project can differ a lot depending on the content, stakeholders, size, budget, etc. But this is how I try to manage:
-1.	In my opinion, the key word is: organization. You will receive lots of information and need to keep an overview on a hundred different things. It is important that you keep on track of everything from day 1.
-2.	Understand what your project entails. What are the objectives? What is the timeline? 
-3.	Identify the stakeholders. It is important to know who you will work with during the project and what their role exactly is. You need to identify all parties involved in the project that you will manage (e.g. your own team members, developers, testers, application owners, your superior, vendors, etc.).
-4.	Create a plan: who needs to do what by when? The more details you can include in your plan, the easier it is to follow it up.
-5.	Inform everyone involved about the plan and the goals that have been set. This is also the moment to let people ask questions to make sure everything is clear. 
-6.	Monitor the project progress and report back regularly. Is everything going according to plan? Or do you need to kick it up a notch?
-7.	Communicate! I try to talk to the people who are working on the project on a regular basis to see how things are moving or where they might be stuck. I also report the status of the project on a weekly basis to management, but the preferred frequency can differ for each project/environment. 
+1.	In my opinion, the key word is: organization. You will receive lots of information and need to keep an overview on a hundred different things. It is important that you keep on track of everything from day 1. <br>
+2.	Understand what your project entails. What are the objectives? What is the timeline? <br>
+3.	Identify the stakeholders. It is important to know who you will work with during the project and what their role exactly is. You need to identify all parties involved in the project that you will manage (e.g. your own team members, developers, testers, application owners, your superior, vendors, etc.). <br>
+4.	Create a plan: who needs to do what by when? The more details you can include in your plan, the easier it is to follow it up. <br>
+5.	Inform everyone involved about the plan and the goals that have been set. This is also the moment to let people ask questions to make sure everything is clear. <br>
+6.	Monitor the project progress and report back regularly. Is everything going according to plan? Or do you need to kick it up a notch? <br>
+7.	Communicate! I try to talk to the people who are working on the project on a regular basis to see how things are moving or where they might be stuck. I also report the status of the project on a weekly basis to management, but the preferred frequency can differ for each project/environment. <br>
 8.	Closure of the project and evaluation. If the objectives have been reached and the Board/Client is satisfied with the results, the project can be closed. If not, the Board/client can decide to add this to the next project or close it anyway. You can also opt to schedule a lessons learned at the end of the project as well to look back on what was done well and what could be improved for any future projects.
 
 *To be continued in the next article.*
