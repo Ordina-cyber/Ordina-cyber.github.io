@@ -171,3 +171,12 @@ dorien_paesen:
   position: Security Consultant
   description: Back in 2019, Dorien decided to follow her passion and made the switch from Test Engineer to Security Consultant. She mainly performs ISO 27K audits and helps the client reach compliance towards this standard.
   active: true
+alexander_vannevel:
+  name: Alexander Van Nevel
+  display_name: Alexander Van Nevel
+  avatar: 'assets/images/Alexander_VanNevel.jpg'
+  web: https://www.linkedin.com/in/ing-alexander-van-nevel-4a1496202/
+  email: alexander.vannevel@ordina.be
+  position: Security Consultant
+  description: Alexander is an Information Technology Engineer, graduated from the University of Ghent. In his last year he specialized in Information Security and Deep Learning. Currently he is working as an Information Security Engineer, empowering Information Security with State-of-The-Art Deep Learning.
+  active: true
