@@ -5,7 +5,7 @@ author: dorien_paesen
 categories: [ project-management ]
 image: assets/images/project_management.jpg
 description: "Project Management Part 1: A Small Starter’s Guide"
-featured: true
+featured: false
 hidden: false
 ---
 *Projects are set up in every field, especially in the Information Security field. They are created to work towards changes within a company in a controlled manner. Even though many people from different backgrounds are involved in a project, it’s important that there is one person who keeps the overview: the Project Manager. Managing a project can be very fulfilling, but also comes with quite a few challenges in my experience. In this blogpost I will share how I get started when I am assigned the role of Project Manager.*

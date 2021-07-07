@@ -180,3 +180,12 @@ alexander_vannevel:
   position: Security Consultant
   description: Alexander is an Information Technology Engineer, graduated from the University of Ghent. In his last year he specialized in Information Security and Deep Learning. Currently he is working as an Information Security Engineer, empowering Information Security with State-of-The-Art Deep Learning.
   active: true
+cedrick_malo:
+  name: Cedrick Malo
+  display_name: Cedrick Malo
+  avatar: 'assets/images/Cedrick_Malo.jfif'
+  web: https://www.linkedin.com/in/cedrick-malo-5a931995/
+  email: cedricknkulu.malo@ordina.be
+  position: Security Consultant
+  description: Cedrick Malo acts as Security and Privacy consultant for Ordina Belgium. He is a very conscientious person with a high sense of duty and responsibility. He always tries to achieve his full potential and has an insatiable thirst for knowledge. Cedrick values respect greatly and is always eager to show his appreciation. Experienced management lead with a demonstrated history of working in the Bank industry and in the information technology.
+  active: true
