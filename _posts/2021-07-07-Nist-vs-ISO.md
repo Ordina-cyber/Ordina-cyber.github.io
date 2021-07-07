@@ -48,9 +48,10 @@ On the other hand, strength of the NIST 800-53 lies in the execution phases, and
 
 It is not always necessary to choose between NIST 800-53 and ISO. In fact, the two are complementary and can be used in the same organization. 
 
-
-### If you need any assistance or have any questions regarding cybersecurity within your company, don’t hesitate to [contact us](https://www.ordina.be/diensten/security-and-privacy/).
-
 *Sources:*
 - *NIST SP 800-53 Rev. 5 Security and Privacy Controls for Information Systems and Organizations, [https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)*
 - *SO/IEC 27001 Information Security Management, [https://www.iso.org/isoiec-27001-information-security.html](https://www.iso.org/isoiec-27001-information-security.html)*
+
+
+
+### If you need any assistance or have any questions regarding cybersecurity within your company, don’t hesitate to [contact us](https://www.ordina.be/diensten/security-and-privacy/).
