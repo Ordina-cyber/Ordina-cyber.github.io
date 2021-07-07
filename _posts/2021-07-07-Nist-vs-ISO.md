@@ -15,7 +15,7 @@ ISO 27001 is the result of collaboration between several entities. In the early 
 
 NIST 800-53 was developed in the United States on the basis of Executive Order number 13636, and published on February 12th, 2013. As a result of this Executive Order, NIST 800-53 has taken the lead in developing the Cybersecurity Framework. 
 
-*Is there a difference between the two methodologies? *
+*Is there a difference between the two methodologies?*
 
 The ISO27001 standard helps organizations to secure their information assets. It defines the requirements for the information security management system (ISMS). It uses a systematic approach to manage sensitive information so that the information remains secure. Management must be able to demonstrate that the organization identifies, reviews and manages security risks on an ongoing basis through the application of appropriate controls.
 
