@@ -1098,4 +1098,6 @@ iframe {
 img + em {
     color: gray;
     margin: 0;
+    display: block;
+    font-size: 0.9em;
  }

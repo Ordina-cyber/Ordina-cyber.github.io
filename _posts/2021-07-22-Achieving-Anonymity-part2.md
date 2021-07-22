@@ -35,5 +35,4 @@ The following case should be the desired one. If the actor separates his actions
 *Different anonymity chains and different context*
 
 
-
-*To be continued in the next article.*
+*To be continued in the next article...*

@@ -40,4 +40,4 @@ These errors were:
 
 Although using different identifications occasionally, those actions were linked together under the same context and due to the fact that some nodes of the anonymity chain remained the same. This case illustrates the importance of a new anonymity chain, unlinked to the previous context, for each distinct action. If he had used a different chain and had not linked the contexts by making the aforementioned errors, many of his incriminating actions would not have been attributed to him. 
 
-*To be continued in the next article.*
+*To be continued in the next article...*
