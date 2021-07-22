@@ -1093,3 +1093,9 @@ iframe {
 .Abouttext {
     max-width: 1024px;
 }
+
+/* Image caption */
+img + em {
+    color: gray;
+    margin: 0;
+ }
