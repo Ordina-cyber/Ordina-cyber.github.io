@@ -9,7 +9,7 @@ featured: true
 hidden: false
 ---
 
-*\*This article is a re-edition of a chapter of **Panopticism Ex Machina: Practical ways to obtain anonymity, confidentiality of data and repudiability of actions on the internet and why it is necessary** (Emmanouil Perselis, 2019).*
+*This article is a re-edition of a chapter of **Panopticism Ex Machina: Practical ways to obtain anonymity, confidentiality of data and repudiability of actions on the internet and why it is necessary** (Emmanouil Perselis, 2019).*
 
 In part 1, I explained the concept of the anonymity chain. The following images will make the concept clear.
 
