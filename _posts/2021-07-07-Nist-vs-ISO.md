@@ -5,7 +5,7 @@ author: cedrick_malo
 categories: [ security-management ]
 image: assets/images/isovsnist.jpg
 description: "ISO 27001 vs NIST 800-53: which one is more suitable for your company?"
-featured: true
+featured: false
 hidden: false
 ---
 
