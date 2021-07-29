@@ -5,7 +5,7 @@ author: maximilian_leire
 categories: [ Microsoft-security-update, Microsoft ]
 image: assets/images/Microsoft-Patch-Tuesday.png
 description: "Microsoft Security Update July 2021"
-featured: true
+featured: false
 hidden: false
 ---
 
@@ -35,4 +35,4 @@ This bug is currently being exploited so make sure to patch this quickly.
 For a list of all vulnerabilities that were disclosed this month [go here](https://msrc.microsoft.com/update-guide).
 
 
-### If you need any assistance, cybersecurity training for your employees or have any questions regarding cybersecurity within your company, don’t hesitate to [contact us](https://www.ordina.be/diensten/security-and-privacy/).
+### If you need any assistance with cybersecurity, want training for your employees or have any questions regarding cybersecurity within your company, don’t hesitate to [contact us](https://www.ordina.be/diensten/security-and-privacy/).
