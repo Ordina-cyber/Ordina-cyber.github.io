@@ -1101,3 +1101,16 @@ img + em {
     display: block;
     font-size: 0.9em;
  }
+
+ table {
+     width: 100%;
+     border-collapse: collapse;
+     font-size: 0.85em;
+ }
+
+ #customers tr:nth-child(even){background-color: #f7f7f7;}
+
+ th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+ }
