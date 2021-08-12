@@ -5,7 +5,7 @@ author: dorien_paesen
 categories: [ project-management ]
 image: assets/images/project_management.jpg
 description: "Project Management Part 2: Tips That Might Help"
-featured: true
+featured: false
 hidden: false
 ---
 *Projects are set up in every field, especially in the Information Security field. They are created to work towards changes within a company in a controlled manner. Even though many people from different backgrounds are involved in a project, it’s important that there is one person who keeps the overview: the Project Manager. Managing a project can be very fulfilling, but also comes with quite a few challenges in my experience. In this blogpost I will share a few tips that help me. If you have some tips you’d like to share, feel free to reach out to me.*
