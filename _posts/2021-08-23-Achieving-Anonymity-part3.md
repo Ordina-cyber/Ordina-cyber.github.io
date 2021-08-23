@@ -23,31 +23,31 @@ Personally identifiable information or PII, is any information that gives the ho
 </tr>
 <tr>
 <td>
-
-* Full name
-* Human physiognomy
-* Home address
-* National identification number
-* Passport number
-* Vehicle registration number
-* Driver's license number
-* Fingerprints or handwriting
-* Creditcard number
-* Date of Birth
-* Place of Birth
-* Genetic information
-* Telephone number
-* Pseudonym
-* Alma mater
-* Religion
-* Financial information
+<ul>
+<li>Full name</li>
+<li>Human physiognomy</li>
+<li>Home address</li>
+<li>National identification number</li>
+<li>Passport number</li>
+<li>Vehicle registration number</li>
+<li>Driver's license number</li>
+<li>Fingerprints or handwriting</li>
+<li>Creditcard number</li>
+<li>Date of Birth</li>
+<li>Place of Birth</li>
+<li>Genetic information</li>
+<li>Telephone number</li>
+<li>Pseudonym</li>
+<li>Alma mater</li>
+<li>Religion</li>
+<li>Financial information</li>
+</ul>
 </td>
 <td>
-
-* Web cookie
-* Asset information (e.g. IP, MAC address)
-* Email address
-* Geographical indicators
+<li>Web cookies</li>
+<li>Asset information (e.g. IP, MAC address)</li>
+<li>Email address</li>
+<li>Geographical indicators</li>
 </td>
 </tr>
 </table>
