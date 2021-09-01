@@ -5,7 +5,7 @@ author: maximilian_leire
 categories: [ Microsoft-security-update, Microsoft ]
 image: assets/images/Microsoft-Patch-Tuesday.png
 description: "Microsoft Security Update August 2021"
-featured: true
+featured: false
 hidden: false
 ---
 

@@ -188,4 +188,13 @@ cedrick_malo:
   email: cedricknkulu.malo@ordina.be
   position: Security Consultant
   description: Cedrick Malo acts as Security and Privacy consultant for Ordina Belgium. He is a very conscientious person with a high sense of duty and responsibility. Cedrick values respect greatly and is always eager to show his appreciation. Experienced management lead with a demonstrated history of working in the Bank industry and in the information technology.
+  active: false
+lalithya_tantry:
+  name: Lalithya Tantry
+  display_name: Lalithya Tantry
+  avatar: 'assets/images/Lalithya_Tantry.jpg'
+  web: https://www.linkedin.com/in/lalithya-tantry-00914815a/
+  email: lalithya.tantry@ordina.be
+  position: Security Consultant
+  description: Lalithya joined Ordina as a Security and Privacy consultant in October 2020. She is a software professional in the field of cyber security who is motivated to work in productive and challenging environment of cyberspace.
   active: true
