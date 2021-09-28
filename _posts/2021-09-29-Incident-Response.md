@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is Shadow IT?"
+title:  "Why cybersecurity incident response is critical for any company"
 author: alexander_vannevel
 categories: [ security-management ]
 image: assets/images/extinguisher.jpg
