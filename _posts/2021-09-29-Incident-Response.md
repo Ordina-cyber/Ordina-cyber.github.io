@@ -19,9 +19,9 @@ What to do in a crisis... any company should have an answer to that. An incident
 An incident response plan generally consists of three major pillars: how the capabilities are organized of incident response, how an incident is handled and, how these are coordinated and information is shared.
 
 There are several types of incident response structures:
-- Companies with a dedicated cyber security department: this type of organization typically has multiple incident response teams, and each team is responsible for a particular logical or physical segment of the organization. This is a typical incident response structure in banks and large IT organizations.
-- Companies with a dedicated IT department: this type of organization preferably has a small incident response team that acts like a temporary project. This is a typical incident response structure in medium sized companies.
-- Companies with limited resources: this type of organization could outsource their incident response process to an external IT services company that helps with user awareness training, prepares the infrastructure with cybersecurity mitigation techniques and will present when an actual attack takes places. 
+- Companies with a dedicated cyber security department: this type of organization typically has multiple incident response teams, and each team is responsible for a particular logical or physical segment of the organization. This is a typical incident response structure in banks and large IT organizations.<br><br>
+- Companies with a dedicated IT department: this type of organization preferably has a small incident response team that acts like a temporary project. This is a typical incident response structure in medium sized companies.<br><br>
+- Companies with limited resources: this type of organization could outsource their incident response process to an external IT services company that helps with user awareness training, prepares the infrastructure with cybersecurity mitigation techniques and will present when an actual attack takes places.<br>
 
 
 ### Does your company need help in cybersecurity incident management? Don’t hesitate to [contact us](https://www.ordina.be/diensten/security-and-privacy/).
