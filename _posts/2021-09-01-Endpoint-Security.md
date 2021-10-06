@@ -5,7 +5,7 @@ author: lalithya_tantry
 categories: [ security-management, personal-security ]
 image: assets/images/Endpoint.jpg
 description: "What is Endpoint Security?"
-featured: true
+featured: false
 hidden: false
 ---
 
