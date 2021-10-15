@@ -5,7 +5,7 @@ author: alexander_vannevel
 categories: [ security-management ]
 image: assets/images/extinguisher.jpg
 description: "Why cybersecurity incident response is critical for any company"
-featured: true
+featured: false
 hidden: false
 ---
 It is nothing special to hear about a cybersecurity incident; cybersecurity has become one of the most important aspects of any company that has IT systems.
