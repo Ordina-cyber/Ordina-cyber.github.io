@@ -5,7 +5,7 @@ author: olga_danilova
 categories: [ security-management ]
 image: assets/images/corporate_buildings.jpg
 description: "Information security governance"
-featured: true
+featured: false
 hidden: false
 ---
 

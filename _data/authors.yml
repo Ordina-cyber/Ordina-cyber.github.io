@@ -89,7 +89,7 @@ gabriela_cioce:
   email: gabriela.cioce@ordina.be
   position: Security Consultant
   description: Passionate about Cyber Security, Languages, Travel, Family and Squash!
-  active: true
+  active: false
 amir_oulad:
   name: Amir Oulad
   display_name: Amir Oulad
@@ -179,7 +179,7 @@ alexander_vannevel:
   email: alexander.vannevel@ordina.be
   position: Security Consultant
   description: Alexander is an Information Technology Engineer, graduated from the University of Ghent. In his last year he specialized in Information Security and Deep Learning. Currently he is working as an Information Security Engineer, empowering Information Security with State-of-The-Art Deep Learning.
-  active: true
+  active: false
 cedrick_malo:
   name: Cedrick Malo
   display_name: Cedrick Malo
@@ -197,4 +197,13 @@ lalithya_tantry:
   email: lalithya.tantry@ordina.be
   position: Security Consultant
   description: Lalithya joined Ordina as a Security and Privacy consultant in October 2020. She is a software professional in the field of cyber security who is motivated to work in productive and challenging environment of cyberspace.
+  active: true
+jordy_bekaert:
+  name: Jordy Bekaert
+  display_name: Jordy Bekaert
+  avatar: 'assets/images/Jordy_Bekaert.jpg'
+  web: https://www.linkedin.com/in/jordy-bekaert/
+  email: jordy.bekaert@ordina.be
+  position: Practice manager
+  description: Jordy is a Cybersecurity expert with over 20 years of experience. He is passionate about network & cyber security, system engineering, network engineering and connecting (to) people.
   active: true
