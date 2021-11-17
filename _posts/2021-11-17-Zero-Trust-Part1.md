@@ -3,7 +3,7 @@ layout: post
 title:  "What is Zero Trust Architecture and why is it so important to understand? Part 1"
 author: jordy_bekaert
 categories: [ ]
-image: assets/images/digitalfingerprint.jpg
+image: assets/images/ZeroTrust.jpg
 description: "What is Zero Trust Architecture and why is it so important to understand? Part 1"
 featured: true
 hidden: false
