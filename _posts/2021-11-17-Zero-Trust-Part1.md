@@ -10,7 +10,7 @@ hidden: false
 ---
 
 ## The analogy
-<i style='color:FFC000;'>If you were the person in the center of the picture, would you trust the other people to catch you? You’d say, it  depends on how well you know those people and how much you can trust them. Right?  Several factors will influence this decision making: whether people are paying attention, being ready for it, being physically up to the task, not getting scared at the last second…. The trust should not be based on hope, you’d say.</i>
+<i style='color:#f58220;'>If you were the person in the center of the picture, would you trust the other people to catch you? You’d say, it  depends on how well you know those people and how much you can trust them. Right?  Several factors will influence this decision making: whether people are paying attention, being ready for it, being physically up to the task, not getting scared at the last second…. The trust should not be based on hope, you’d say.</i>
 
 ## Intro – why a mindset change is needed 
 In business, we still tend to see quite some IT security relying on a lot of trust: senior management, IT staff and users rarely challenge that users, claiming identities on devices, should gain full access to all (or large extent of) company data, applications, IT/OT/IoT infrastructure and networks. Often, full access is being applied with  very little (or no) level of access granularity to company data, simply because “it has always been (working) like that”.
@@ -37,4 +37,4 @@ As a result, this perception that there’s still a security perimeter present b
 
 This results in the enablement of both insider threats and external bad actors, being able to move laterally throughout the organization, once a security barrier is being compromised (for many insiders not even needed).
 
-<i style='color:FFC000'>Thinking back to the analogy in the intro: the people that you trust to catch you, cannot be trusted because you don’t know them, you don’t know their intentions and typical behavior and you don’t even know where they are.</i>
+<i style='color:#f58220'>Thinking back to the analogy in the intro: the people that you trust to catch you, cannot be trusted because you don’t know them, you don’t know their intentions and typical behavior and you don’t even know where they are.</i>
