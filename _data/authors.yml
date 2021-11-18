@@ -23,7 +23,7 @@ joren_jacob:
   avatar: 'assets/images/Joren_Jacob.jpg'
   web: https://www.linkedin.com/in/jorenjacob/
   email: joren.jacob@ordina.be
-  position: Security consultant
+  position: Security Consultant
   description: "Joren likes to handle all kinds of security related topics, going from ISO27K & compliance to blue teaming and red teaming. As a schooled Software Engineer, he also likes programming. He is the developper of this blog."
   active: true
 kozue_connor:
@@ -32,7 +32,7 @@ kozue_connor:
   avatar: 'assets/images/Kozue_Connor.jpg'
   web: https://www.linkedin.com/in/kozueconnor/
   email: kozue.connor@ordina.be
-  position: Security consultant
+  position: Security Consultant
   description: "Kozue is an expert in the field of Risk, Business Continuity and Cyber Security Management. She has developed management systems for numerous clients"
   active: true
 maximilian_leire:
@@ -41,7 +41,7 @@ maximilian_leire:
   avatar: 'assets/images/Maximilian_Leire.jpg'
   web: https://www.linkedin.com/in/maximilian-leire-473477164/
   email: maximilian.leire@ordina.be
-  position: Security consultant
+  position: Security Consultant
   description: "Max started working for Ordina in 2019 as a security consultant, his preferred domains are red teaming and vulnerability management. He is the co-developer of this blog."
   active: true
 emmanouil_perselis:
@@ -50,7 +50,7 @@ emmanouil_perselis:
   avatar: 'assets/images/Emmanouil_Perselis.jpg'
   web: https://www.linkedin.com/in/emmanouil-perselis-949712190/
   email: emmanouil.perselis@ordina.be
-  position: Security consultant
+  position: Security Consultant
   description: "Ethical Hacker, Security and Privacy Consultant, Programming Teacher and Author."
   github: "https://github.com/axano"
   active: true
@@ -60,7 +60,7 @@ stephanie_gassanova:
   avatar: 'assets/images/Stephanie_Gassanova.jpg'
   web:
   email: stephanie.gassanova@ordina.be
-  position: Privacy consultant
+  position: Privacy Consultant
   description:
   active: false
 tom_degol:
@@ -78,7 +78,7 @@ bert_vervust:
   avatar: 'assets/images/Bert_Vervust.jpg'
   web: https://www.linkedin.com/in/bert-vervust/
   email: bert.vervust@ordina.be
-  position: Security consultant
+  position: Security Consultant
   description: "Cyber security enthusiast"
   active: true
 gabriela_cioce:
@@ -204,6 +204,16 @@ jordy_bekaert:
   avatar: 'assets/images/Jordy_Bekaert.jpg'
   web: https://www.linkedin.com/in/jordy-bekaert/
   email: jordy.bekaert@ordina.be
-  position: Practice manager
+  position: Practice Manager
   description: Jordy is a Cybersecurity expert with over 20 years of experience. He is passionate about network & cyber security, system engineering, network engineering and connecting (to) people.
+  active: true
+nick_van_haver:
+  name: Nick Van Haver
+  display_name: Nick Van Haver
+  avatar: 'assets/images/Nick_Van_Haver.jpg'
+  web: https://www.linkedin.com/in/nick-van-haver/
+  email: nick.vanhaver@ordina.be
+  position: Security Consultant
+  description: "Security Consultant, Secure Software Specialist and Software Developer with a passion for all things technology."
+  github: "https://github.com/nvhaver"
   active: true
