@@ -5,7 +5,7 @@ author: emmanouil_perselis
 categories: [ ]
 image: assets/images/digitalfingerprint.jpg
 description: "Achieving anonymity and what defines it part 5"
-featured: true
+featured: false
 hidden: false
 ---
 
