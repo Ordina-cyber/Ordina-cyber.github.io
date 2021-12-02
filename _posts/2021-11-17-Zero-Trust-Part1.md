@@ -5,7 +5,7 @@ author: jordy_bekaert
 categories: [ ]
 image: assets/images/ZeroTrust.jpg
 description: "What is Zero Trust Architecture and why is it so important to understand? Part 1"
-featured: true
+featured: false
 hidden: false
 ---
 
@@ -38,3 +38,5 @@ As a result, this perception that there’s still a security perimeter present b
 This results in the enablement of both insider threats and external bad actors, being able to move laterally throughout the organization, once a security barrier is being compromised (for many insiders not even needed).
 
 <i style='color:#f58220'>Thinking back to the analogy in the intro: the people that you trust to catch you, cannot be trusted because you don’t know them, you don’t know their intentions and typical behavior and you don’t even know where they are.</i>
+
+### Need help implementing Zero Trust in your company or are you passionate about Zero Trust and want to help others implement this way of working? Don’t hesitate to [contact us](https://www.ordina.be/diensten/security-and-privacy/).
