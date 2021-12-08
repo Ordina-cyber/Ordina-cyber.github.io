@@ -5,7 +5,7 @@ author: jordy_bekaert
 categories: [ ]
 image: assets/images/ZeroTrust.jpg
 description: "What is Zero Trust Architecture and why is it so important to understand? Part 2"
-featured: true
+featured: false
 hidden: false
 ---
 
@@ -44,4 +44,4 @@ Depending on these controls, access will be granted or denied to
 - the network, by using access & runtime control steering network delivery and internal micro-segmentation
 All of this is being supplied with full visibility and analytics and can be automated.
 
-### Need help implementing Zero Trust in your company or are you passionate about Zero Trust and want to help others implement this way of working? Don’t hesitate to [contact us](https://www.ordina.be/diensten/security-and-privacy/).
+### Need help implementing Zero Trust in your company, or are you passionate about Zero Trust and want to help others implement this way of working? Don’t hesitate to [contact us](https://www.ordina.be/diensten/security-and-privacy/).

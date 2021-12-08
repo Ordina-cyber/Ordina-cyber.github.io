@@ -39,4 +39,4 @@ This results in the enablement of both insider threats and external bad actors, 
 
 <i style='color:#f58220'>Thinking back to the analogy in the intro: the people that you trust to catch you, cannot be trusted because you don’t know them, you don’t know their intentions and typical behavior and you don’t even know where they are.</i>
 
-### Need help implementing Zero Trust in your company or are you passionate about Zero Trust and want to help others implement this way of working? Don’t hesitate to [contact us](https://www.ordina.be/diensten/security-and-privacy/).
+### Need help implementing Zero Trust in your company, or are you passionate about Zero Trust and want to help others implement this way of working? Don’t hesitate to [contact us](https://www.ordina.be/diensten/security-and-privacy/).
