@@ -5,7 +5,7 @@ author: nick_van_haver
 categories: [ ]
 image: assets/images/colored-umbrellas.jpg
 description: "We all know about Blue and Red teaming, but what if there is another team to be considered?"
-featured: true
+featured: false
 hidden: false
 ---
 
