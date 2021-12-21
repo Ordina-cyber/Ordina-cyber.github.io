@@ -42,7 +42,7 @@ maximilian_leire:
   web: https://www.linkedin.com/in/maximilian-leire-473477164/
   email: maximilian.leire@ordina.be
   position: Security Consultant
-  description: "Max started working for Ordina in 2019 as a security consultant, his preferred domains are red teaming and vulnerability management. He is the co-developer of this blog."
+  description: "Max started working for Ordina in 2019 as a security consultant, his preferred cyber security domains are cloud security and vulnerability management. He is the co-developer of this blog."
   active: true
 emmanouil_perselis:
   name: Emmanouil Perselis
@@ -107,7 +107,7 @@ thomas_driessen:
   email: thomas.driessen@ordina.be
   position: Security Consultant
   description:
-  active: true
+  active: false
 joshua_adshead:
   name: Joshua Adshead
   display_name: Joshua Adshead
