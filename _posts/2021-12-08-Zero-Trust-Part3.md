@@ -5,7 +5,7 @@ author: jordy_bekaert
 categories: [ ]
 image: assets/images/ZeroTrust.jpg
 description: "What is Zero Trust Architecture and why is it so important to understand? Part 3"
-featured: true
+featured: false
 hidden: false
 ---
 
