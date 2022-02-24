@@ -2,12 +2,11 @@
 name: "Cyber Blog"
 title: "Cyber Blog"
 description: "Powered by"
-theme: jekyll/minima
 logo: 'assets/images/Ordina-logo-big.png'
 favicon: 'assets/images/Ordina-logo-small.png'
 baseurl: ''
 redirect: 'ordina-cyber.github.io'
-google_analytics: 'G-NWZXVKJWXD'
+google_analytics: 'UA-221378164-1'
 #disqus: 'demowebsite'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -22,7 +21,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-  - jekyll-remote-theme
     
 # Archives
 jekyll-archives:
