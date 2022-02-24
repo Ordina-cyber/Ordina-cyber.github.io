@@ -2,6 +2,7 @@
 name: "Cyber Blog"
 title: "Cyber Blog"
 description: "Powered by"
+theme: jekyll/minima
 logo: 'assets/images/Ordina-logo-big.png'
 favicon: 'assets/images/Ordina-logo-small.png'
 baseurl: ''
@@ -21,6 +22,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-remote-theme
     
 # Archives
 jekyll-archives:
