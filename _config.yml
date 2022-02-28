@@ -33,11 +33,12 @@ jekyll-archives:
     category: '/category/:name/'
 
 #Plausible
-jekyll-analytics:
+jekyll_analytics:
   Plausible:
     domain: 'ordina-cyber.github.io'   # The domain configured in plausible
-    source: 'https://plausible.io/js/plausible.js' # The source of 
-    
+    source: 'https://plausible.io/js/plausible.js' # The source of the javascript
+
+
 # Pagination 
 paginate: 6
 paginate_path: /page:num/
