@@ -18,6 +18,7 @@ group :jekyll_plugins do
     gem 'kramdown'
     gem 'rouge'
     gem 'kramdown-parser-gfm'
+    gem 'jekyll-analytics' #Plausible
 end
 
 gem "jekyll", "~> 4.1"
