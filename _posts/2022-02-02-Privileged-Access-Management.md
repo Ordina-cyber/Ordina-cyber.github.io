@@ -5,7 +5,7 @@ author: kozue_connor
 categories: [ security-management ]
 image: assets/images/electronic_lock.jpg
 description: "Privileged Access Management (PAM) tools can help to reduce the risk of hackers being successful in gaining privileged access to your systems"
-featured: true
+featured: false
 hidden: false
 ---
 
