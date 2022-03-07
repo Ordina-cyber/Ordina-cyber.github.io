@@ -5,7 +5,7 @@ author: maximilian_leire
 categories: [ Microsoft-security-update, Microsoft ]
 image: assets/images/Microsoft-Patch-Tuesday.png
 description: "Microsoft Security Update February 2022"
-featured: false
+featured: true
 hidden: false
 ---
 
