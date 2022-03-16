@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cybersecurity challenge Belgium"
-author: "tom_dewandel"
+author: "tom_de_wandel"
 categories: [ ]
 image: assets/images/Posts/CSCB/Sponsor.png
 description: "Cybersecurity challenge Belgium"

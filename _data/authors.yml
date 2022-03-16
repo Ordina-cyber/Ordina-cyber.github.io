@@ -217,3 +217,12 @@ nick_van_haver:
   description: "Security Consultant, Secure Software Specialist and Software Developer with a passion for all things technology."
   github: "https://github.com/nvhaver"
   active: true
+tom_de_wandel:
+  name: Tom De Wandel
+  display_name: Tom De Wandel
+  avatar: 'assets/images/Tom_De_Wandel.jpg'
+  web: https://www.linkedin.com/in/tom-de-wandel-1574a4220/
+  email: tom.dewandel@ordina.be
+  position: Security Intern
+  description: "Tom is a cybersecurity intern at Ordina, his preferred field is red-teaming and he loves doing CTF's."
+  active: true
