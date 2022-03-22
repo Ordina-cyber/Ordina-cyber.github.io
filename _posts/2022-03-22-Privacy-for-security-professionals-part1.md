@@ -23,8 +23,8 @@ However, different data privacy regulations use different terms for data that 
 
 Additionally, each piece of privacy legislation has its own definitions for personal information, personal data, or PII; organizations should carefully review the descriptions in the legislation that applies to them.
 
-<table><thead><tr class="header"><th>Personal Data (GDPR)</th><th></th><th></th></tr></thead>
-<tbody><tr class="odd"><td>Personally Identifiable Information (PII)</td><td>Not PII but Personal Data under GDPR</td><td></td></tr><tr class="even"><td><ul><li><p>Name</p></li><li><p>Home address</p></li><li><p>Email address</p></li><li><p>National registry number</p></li><li><p>Telephone number</p></li><li><p>Personal characteristics</p></li><li><p>Biometric data</p></li><li><p>First or last name</p></li><li><p>Place of birth</p></li><li><p>Gender</p></li><li><p>Race</p></li><li><p>Religion</p></li></ul></td><td><ul><li><p>Device ID (e.g. mobile phone device ID)</p></li><li><p>IP address</p></li><li><p>Cookies</p></li><li><p>Browser type</p></li><li><p>Plug-in details</p></li></ul></td></tr></tbody></table>
+<table><thead><tr class="header"><th>Personal Data (GDPR)</th><th></th></tr></thead>
+<tbody><tr class="odd"><td>Personally Identifiable Information (PII)</td><td>Not PII but Personal Data under GDPR</td></tr><tr class="even"><td><ul><li><p>Name</p></li><li><p>Home address</p></li><li><p>Email address</p></li><li><p>National registry number</p></li><li><p>Telephone number</p></li><li><p>Personal characteristics</p></li><li><p>Biometric data</p></li><li><p>First or last name</p></li><li><p>Place of birth</p></li><li><p>Gender</p></li><li><p>Race</p></li><li><p>Religion</p></li></ul></td><td><ul><li><p>Device ID (e.g. mobile phone device ID)</p></li><li><p>IP address</p></li><li><p>Cookies</p></li><li><p>Browser type</p></li><li><p>Plug-in details</p></li></ul></td></tr></tbody></table>
 
 ## Personal data according to GDPR
 
