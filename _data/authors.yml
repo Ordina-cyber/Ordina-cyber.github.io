@@ -226,3 +226,12 @@ tom_de_wandel:
   position: Security Intern
   description: "Tom is a cybersecurity intern at Ordina, his preferred field is red-teaming and he loves doing CTF's."
   active: true
+jeffrey_van_moortel:
+  name: Jeffrey Van Moortel
+  display_name: Jeffrey Van Moortel
+  avatar: 'assets/images/Jeffrey_Van_Moortel.jpg'
+  web: https://www.linkedin.com/in/jeffrey-%F0%9F%8C%8E-van-moortel-5256a35/
+  email: jeffrey.vanmoortel@ordina.be
+  position: Security Consultant
+  description: "Security & Privacy consultant with nearly 20 years of experience with a strong focus on data protection matters. Helping customers with developing and implementing their security & privacy roadmap and supporting them in their governance, risk & compliance activities."
+  active: true
