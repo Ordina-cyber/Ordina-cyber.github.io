@@ -5,7 +5,7 @@ author: "tom_de_wandel"
 categories: [ ]
 image: assets/images/Posts/CSCB/Sponsor.png
 description: "Cybersecurity challenge Belgium"
-featured: true
+featured: false
 hidden: false
 ---
 
