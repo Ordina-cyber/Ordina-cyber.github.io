@@ -5,8 +5,8 @@ author: "tom_degol"
 categories: [ ]
 image: assets/images/Posts/Risk/Risk.jpg
 description: "The risk of not knowing your risks"
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 Risk.. Such a broad word nowadays.. 
