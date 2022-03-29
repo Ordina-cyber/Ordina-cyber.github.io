@@ -6,7 +6,7 @@ categories: [ ]
 image: assets/images/Posts/Risk/Risk.jpg
 description: "The risk of not knowing your risks"
 featured: true
-hidden: false
+hidden: true
 ---
 
 Risk.. Such a broad word nowadays.. 
