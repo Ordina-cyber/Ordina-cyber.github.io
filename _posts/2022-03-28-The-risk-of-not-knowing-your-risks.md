@@ -19,7 +19,7 @@ When I explain the issue of not knowing the risks, I often get questions such as
 
 The answers to the questions are relatively straight forward if you apply a best practice of risk management system. ISO 31000:2018 is an example.
 
-![The risk management process](..\assets\images\Posts\Risk\../assets/images/Posts/Risk/Risk.png)
+![The risk management process](../assets/images/Posts/Risk/Risk.png)
 *ISO 31000:2018 Risk Management Process*
 
 By performing a company-wide risk assessment with a pre-defined scope, you are able to identify risks of your domains. The domains are probably not only IT-related domains, but might consist out of both IT and business elements. Once you’ve identified the risks, you have to analyse and describe them, evaluate the impact/likelihood and finally develop the treatment plans including ownership of the actions. Managing in the sense of registering, owning, describing, etc. but also share information about them with relevant stakeholders.
