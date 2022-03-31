@@ -235,3 +235,12 @@ jeffrey_van_moortel:
   position: Security Consultant
   description: "Security & Privacy consultant with nearly 20 years of experience with a strong focus on data protection matters. Helping customers with developing and implementing their security & privacy roadmap and supporting them in their governance, risk & compliance activities."
   active: true
+ordina:
+  name: Ordina
+  display_name: Ordina
+  avatar: 'assets/images/Ordina_Logo_Square.png'
+  web: https://www.linkedin.com/company/ordinabelgium/
+  email: mark.vandenwauver@ordina.be
+  position: 
+  description: "Author wishes to remain anonymous or article written by guest author."
+  active: true
