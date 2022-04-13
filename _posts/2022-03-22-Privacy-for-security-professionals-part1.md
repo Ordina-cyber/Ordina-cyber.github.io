@@ -5,7 +5,7 @@ author: "jeffrey_van_moortel"
 categories: [ Privacy ]
 image: assets/images/Posts/GDPR/Classified_document.jpg
 description: "Privacy for security professionals 1 : Is a userID considered as personal data?"
-featured: true
+featured: false
 hidden: false
 ---
 
