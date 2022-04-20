@@ -22,7 +22,7 @@ Flat networks vs segmented networks in a Zero Trust Architecture
 
 Many organizations still manage a ‘flat’ network, which means all (or the vast majority) of IT assets and data are available from every system within the network from the networking perspective.
 
-<img src="../assets/images/Posts/NetworkSegmentation/image2.png" style="width:5.88681in;height:1.62292in"/>
+<img src="../assets/images/Posts/NetworkSegmentation/image2.png" style="width:5.88681in;height:1.62292in;margin: 0 auto;"/>
 
 Network segmentation enables the prevention of unauthorized users, whether by curious insiders or malicious external attackers, from gaining access to valuable assets such as customers’ or employees’ PII (personal identifiable information), corporate financial records and highly confidential intellectual property, the so-called “crown jewels”. **Today, these assets are often spread across hybrid and multi-cloud environments including**
 
