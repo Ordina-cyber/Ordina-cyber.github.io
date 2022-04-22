@@ -49,9 +49,9 @@ Some examples of data classification and (micro) segmentation use cases are:
 
 -   IoT (Internet of Things) and OT (Operational Technology) (sub)networks.
 
-> Automated detection and labeling has become more valuable with the growth of the Internet of Things (IoT). Also, companies using Operational Technology often use this to automate labor, mostly in (but not limited to) manufacturing and logistics. These devices are often insecure by nature (built to deliver the functionality in the most cost-efficient way, so not secure by design), and segmentation is required to isolate them from critical systems on the enterprise network. However, implementing effective IoT security requires a firewall that understands IoT protocols. Same applies to OT.
->
-> Interesting to mention here, is that **some vendors have specific controls (often specific firewalls or firewall rulesets for several firewall vendors) to identify IoT and OT (automation) specific vulnerabilities and/or even attacks.**
+    Automated detection and labeling has become more valuable with the growth of the Internet of Things (IoT). Also, companies using Operational Technology often use this to automate labor, mostly in (but not limited to) manufacturing and logistics. These devices are often insecure by nature (built to deliver the functionality in the most cost-efficient way, so not secure by design), and segmentation is required to isolate them from critical systems on the enterprise network. However, implementing effective IoT security requires a firewall that understands IoT protocols. Same applies to OT.
+
+    Interesting to mention here, is that **some vendors have specific controls (often specific firewalls or firewall rulesets for several firewall vendors) to identify IoT and OT (automation) specific vulnerabilities and/or even attacks.**
 
 -   Administrator/root passwords of IT infrastructure
 
