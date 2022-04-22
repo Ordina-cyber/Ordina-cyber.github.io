@@ -35,7 +35,7 @@ Some examples of data classification and (micro) segmentation use cases are:
 
 -   Public and hybrid cloud security: Cloud service providers are typically responsible for security at the cloud infrastructure layer itself, **but the customer is responsible for the security of the operating systems, platforms, access control, data, intellectual property (IP), source code and customer-facing content** that typically sit on top of the infrastructure. **At this level, organizations still tend to forget this and presume cloud providers take care of this, which they do NOT, resulting in severe security breaches of any kind.** Segmentation is an effective method for isolating applications in public and hybrid cloud environments and putting security controls in place where needed  
       
-    <img src="media\image7.jpeg" alt="Wat is SaaS, IaaS en PaaS?" />
+    <img src="../assets/images/Posts/NetworkSegmentation/image7.jpeg" alt="Wat is SaaS, IaaS en PaaS?" />
 
 -   Initial internal M&A negotiation details
 
