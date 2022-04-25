@@ -5,7 +5,7 @@ author: jordy_bekaert
 categories: [ ]
 image: assets/images/Posts/NetworkSegmentation/image1.jpeg
 description: "Network Segmentation Part 3"
-featured: true
+featured: false
 hidden: false
 ---
 
