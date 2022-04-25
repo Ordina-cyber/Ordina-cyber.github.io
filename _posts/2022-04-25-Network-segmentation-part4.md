@@ -64,5 +64,6 @@ Defining a network segmentation policy is not a one-time ‘set-and-forget’ ac
 -   accommodate and align with risk changes
 
 
+*To be continued in part 5..*
 
 ### Ordina is your partner in this journey and enables you to go ahead of change against the security challenges of the digital age. If you need any assistance with cybersecurity, want training for your employees or have any questions regarding cybersecurity within your company, don’t hesitate to [contact us](https://www.ordina.be/diensten/security-and-privacy/).
