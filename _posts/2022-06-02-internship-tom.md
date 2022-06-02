@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My internship at Ordina: Tom De Wandel"
-author: tom_dewandel
+author: tom_de_wandel
 categories: [ interview, Ordina ]
 image: assets/images/ordina-vlaggen-2.jpeg
 description: "Tom about his internship at Ordina."
