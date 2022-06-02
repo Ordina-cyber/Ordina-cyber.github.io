@@ -5,7 +5,7 @@ author: "jeffrey_van_moortel"
 categories: [ Privacy ]
 image: assets/images/Posts/GDPR/Classified_document.jpg
 description: "Privacy for security professionals 2 : How to embed privacy requirements in the design of new systems & applications"
-featured: true
+featured: false
 hidden: false
 ---
 
