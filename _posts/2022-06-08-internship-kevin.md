@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My internship at Ordina: Kevin De Vijlder"
-author: tom_de_wandel
+author: kevin_de_vijlder
 categories: [ interview, Ordina ]
 image: assets/images/ordina-vlaggen.jpg
 description: "Kevin about his internship at Ordina."

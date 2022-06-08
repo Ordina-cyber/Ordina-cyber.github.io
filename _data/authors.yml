@@ -235,6 +235,15 @@ jeffrey_van_moortel:
   position: Security Consultant
   description: "Security & Privacy consultant with nearly 20 years of experience with a strong focus on data protection matters. Helping customers with developing and implementing their security & privacy roadmap and supporting them in their governance, risk & compliance activities."
   active: true
+kevin_de_vijlder:
+  name: Kevin De Vijlder
+  display_name: Kevin De Vijlder
+  avatar: 'assets/images/Kevin_De_Vijlder.png'
+  web: https://www.linkedin.com/in/kevindevijlder/
+  email: kevin.devijlder@ordina.be
+  position: Security Intern
+  description: "Kevin is a 25 year old computer science student from UCLL, he did his internship at Ordina and will permanently join us in a few months."
+  active: true
 ordina:
   name: Ordina
   display_name: Ordina
