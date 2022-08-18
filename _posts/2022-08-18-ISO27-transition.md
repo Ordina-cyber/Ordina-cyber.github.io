@@ -36,5 +36,7 @@ In most case, major updates in the ISMS are not necessary as the change in ISO/I
 ### If you need any assistance or have any questions regarding privacy or cybersecurity in general, feel free to [contact us](https://www.ordina.be/diensten/security-and-privacy/). We can support you to review your ISMS to comply ISO/IEC 27001:2022.
 
 <br>
+
 *References*
+
 *International Accreditation Forum, https://iaf.nu/en/home/*
