@@ -16,17 +16,9 @@ In the Transition Requirements, key timescales for the Accreditation Bodies (AB)
 #### Key Timescales and Impact for Certified Organizations  
 ##### (created based on the key timescale table in the Transition Requirements)
 
-| Activity                                                                   | Due Date (from the last day of publication month of ISO/IEC 27001:2022) | Impact for organizations to be (re) certified                                             |
-|----------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| Accreditation Bodies (AB)                                                                                                                                                                                                                      |
-| AB to be ready to assess to ISO/IEC 27001: 2022 no later than              | 6 months                                                                | Will be able to select at least 1 CAB to receive ISO/IEC 27001:2022 audit within 6 months |
-| Initial assessment by AB to ISO/IEC 27001:2022 to begin no later than      | 6 months                                                                |                                                                                           |
-| AB transitions of CABs completed by                                        | 12 months                                                               | Will be able to receive ISO/IEC 27001:2022 audit from any CAB within 12 months            |
-| Conformity Assessment Bodies (CAB)                                                                                                                                                                                                             |
-| Initial certification by CAB to ISO/IEC 27001: 2022 to begin no later than | 12 months                                                               | Will be able to receive ISO/IEC 27001:2022 audit from any CAB within 12 months            |
-| CAB transitions of certified clients completed by                          | 36 months                                                               | Will not be able to receive ISO/IEC 27001:2013 audit 36 months later                      |
+<table><thead><tr class="header"><th>Activity</th><th>Due Date (from the last day of publication month of ISO/IEC 27001:2022)</th><th>Impact for organizations to be (re) certified</th></tr></thead><tbody><tr class="odd"><td>Accreditation Bodies (AB)</td><td></td><td></td></tr><tr class="even"><td>AB to be ready to assess to ISO/IEC 27001: 2022 no later than</td><td>6 months</td><td>Will be able to select at least 1 CAB to receive ISO/IEC 27001:2022 audit within 6 months</td></tr><tr class="odd"><td>Initial assessment by AB to ISO/IEC 27001:2022 to begin no later than</td><td>6 months</td><td></td></tr><tr class="even"><td>AB transitions of CABs completed by</td><td>12 months</td><td>Will be able to receive ISO/IEC 27001:2022 audit from any CAB within 12 months</td></tr><tr class="odd"><td>Conformity Assessment Bodies (CAB)</td><td></td><td></td></tr><tr class="even"><td>Initial certification by CAB to ISO/IEC 27001: 2022 to begin no later than</td><td>12 months</td><td>Will be able to receive ISO/IEC 27001:2022 audit from any CAB within 12 months</td></tr><tr class="odd"><td>CAB transitions of certified clients completed by</td><td>36 months</td><td>Will not be able to receive ISO/IEC 27001:2013 audit 36 months later</td></tr></tbody></table>
 
-<br><br>
+<br>
 
 If your organization is certified to ISO/IEC 27001:2013 (and next recertification audit is not expected before or soon after the ISO/IEC 27001:2022 publication), technically you may select next recertification audit between version 2013 and 2022. However, we recommend version 2022 as your stakeholders such as your customers may expect you to comply with the latest framework sooner. The same can be said for organizations that are preparing for the ISO/IEC 27001 certification. Additionally, in the Transition Requirements, Transition Audit is mentioned and *“CAB may conduct the transition audit in conjunction with the surveillance audit, recertification audit or through a separate audit.”*. So you can update your ISO/IEC 27001 certification to version 2022 before expected next recertification audit.
 
@@ -34,6 +26,7 @@ In most case, major updates in the ISMS are not necessary as the change in ISO/I
 
 <table><tbody><tr class="odd"><td><p><em>The transition audit shall include, but not limited to the following:</em></p><ul><li><p><em>the gap analysis of ISO/IEC 27001:2022, as well as</em></p></li><li><p><em>the need for changes to the client’s ISMS;</em></p></li><li><p><em>the updating of the statement of applicability (SoA);</em></p></li><li><p><em>if applicable, the updating of the risk treatment plan;</em></p></li><li><p><em>the implementation and effectiveness of the new or changed controls chosen by the clients.</em></p></li></ul></td></tr></tbody></table>
 
+<br>
 
 ### If you need any assistance or have any questions regarding privacy or cybersecurity in general, feel free to [contact us](https://www.ordina.be/diensten/security-and-privacy/). We can support you to review your ISMS to comply ISO/IEC 27001:2022.
 
