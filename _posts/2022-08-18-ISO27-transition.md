@@ -13,8 +13,8 @@ The International Accreditation Forum issued **Transition Requirements** for ISO
 
 In the Transition Requirements, key timescales for the Accreditation Bodies (AB) and Conformity Assessment Bodies (CAB) are shown. ABs are organizations that accredit the certification bodies and generally appointed by the government. CABs are organizations that perform assessments and they are especially called as Certification Bodies in the context of ISO/IEC 27001 certification.
 
-### Key Timescales and Impact for Certified Organizations  
-#### (created based on the key timescale table in the Transition Requirements)
+#### Key Timescales and Impact for Certified Organizations  
+##### (created based on the key timescale table in the Transition Requirements)
 
 | Activity                                                                   | Due Date (from the last day of publication month of ISO/IEC 27001:2022) | Impact for organizations to be (re) certified                                             |
 |----------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
@@ -33,7 +33,7 @@ In most case, major updates in the ISMS are not necessary as the change in ISO/I
 <table><tbody><tr class="odd"><td><p><em>The transition audit shall include, but not limited to the following:</em></p><ul><li><p><em>the gap analysis of ISO/IEC 27001:2022, as well as</em></p></li><li><p><em>the need for changes to the client’s ISMS;</em></p></li><li><p><em>the updating of the statement of applicability (SoA);</em></p></li><li><p><em>if applicable, the updating of the risk treatment plan;</em></p></li><li><p><em>the implementation and effectiveness of the new or changed controls chosen by the clients.</em></p></li></ul></td></tr></tbody></table>
 
 
-### If you need any assistance or have any questions regarding privacy or cybersecurity in general, feel free to contact us. We can support you to review your ISMS to comply ISO/IEC 27001:2022.
+### If you need any assistance or have any questions regarding privacy or cybersecurity in general, feel free to [contact us](https://www.ordina.be/diensten/security-and-privacy/). We can support you to review your ISMS to comply ISO/IEC 27001:2022.
 
 <br>
 *References*
