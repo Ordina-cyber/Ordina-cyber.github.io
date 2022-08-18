@@ -5,7 +5,7 @@ author: tom_de_wandel
 categories: [ interview, Ordina ]
 image: assets/images/ordina-vlaggen-2.jpeg
 description: "Tom about his internship at Ordina."
-featured: true
+featured: false
 hidden: false
 ---
 
