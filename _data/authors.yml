@@ -241,8 +241,17 @@ kevin_de_vijlder:
   avatar: 'assets/images/Kevin_De_Vijlder.png'
   web: https://www.linkedin.com/in/kevindevijlder/
   email: kevin.devijlder@ordina.be
-  position: Security Intern
+  position: Security Consultant
   description: "Kevin is a 25 year old computer science student from UCLL, he did his internship at Ordina and will permanently join us in a few months."
+  active: true
+tim_de_brouwere:
+  name: Tim De Brouwere
+  display_name: Tim De Brouwere
+  avatar: 'assets/images/Tim_De_Brouwere.jpg'
+  web: https://www.linkedin.com/in/timdebrouwere/
+  email: tim.debrouwere@ordina.be
+  position: Security Consultant
+  description: ""
   active: true
 ordina:
   name: Ordina

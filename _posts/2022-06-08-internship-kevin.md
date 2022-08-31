@@ -5,7 +5,7 @@ author: kevin_de_vijlder
 categories: [ interview, Ordina ]
 image: assets/images/ordina-vlaggen.jpg
 description: "Kevin about his internship at Ordina."
-featured: true
+featured: false
 hidden: false
 ---
 
