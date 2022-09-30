@@ -5,7 +5,7 @@ author: "tom_degol"
 categories: [ ]
 image: assets/images/Posts/Risk/Risk.jpg
 description: "The risk of not knowing your risks"
-featured: false
+featured: true
 hidden: false
 ---
 
