@@ -5,7 +5,7 @@ author: "kozue_connor"
 categories: [ security-management ]
 image: assets/images/isovsnist.jpg
 description: "Timescales for ISO/IEC 27001 Transition have been Formally Announced"
-featured: true
+featured: false
 hidden: false
 ---
 
