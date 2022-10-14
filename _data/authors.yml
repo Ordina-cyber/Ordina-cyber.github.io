@@ -80,7 +80,7 @@ bert_vervust:
   email: bert.vervust@ordina.be
   position: Security Consultant
   description: "Cyber security enthusiast"
-  active: true
+  active: false
 gabriela_cioce:
   name: Gabriela Cioce
   display_name: Gabriela Cioce
@@ -116,7 +116,7 @@ joshua_adshead:
   email: joshua.adshead@ordina.be
   position: Security Consultant
   description: Josh began his career at Ordina in 2020 as a Security Consultant. Enthusiastic, Motivated and Passionate about Cyber Security and eager to help with any issues.
-  active: true
+  active: false
 olga_danilova:
   name: Olga Danilova
   display_name: Olga Danilova
@@ -125,7 +125,7 @@ olga_danilova:
   email: olga.danilova@ordina.be
   position: Security Consultant
   description: Olga is a security&privacy consultant with a broad international experience. She is an author and trainer in different subjects. Her passion for cyber security keeps on growing and she is now specializing in risk management, vendor security assessment and security education among other things.
-  active: true
+  active: false
 marnick_vandecauter:
   name: Marnick Vandecauter
   display_name: Marnick Vandecauter
@@ -134,7 +134,7 @@ marnick_vandecauter:
   email: marnick.vandecauter@ordina.be
   position: Security Consultant
   description: Marnick is a security fanatic who wants to make the world a better and more secure place for everyone.
-  active: true
+  active: false
 thomas_hayen:
   name: Thomas Hayen
   display_name: Thomas Hayen
@@ -170,7 +170,7 @@ dorien_paesen:
   email: dorien.paesen@ordina.be
   position: Security Consultant
   description: Back in 2019, Dorien decided to follow her passion and made the switch from Test Engineer to Security Consultant. She mainly performs ISO 27K audits and helps the client reach compliance towards this standard.
-  active: true
+  active: false
 alexander_vannevel:
   name: Alexander Van Nevel
   display_name: Alexander Van Nevel
