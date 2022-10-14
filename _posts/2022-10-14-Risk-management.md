@@ -57,6 +57,7 @@ Image below is example of a common risk assessment approach, risk heat map (or r
 </tbody>
 </table>
 
+<br><br>
 ## Problem is not Risk
 
 There are several terms often get confused with risk. Let’s check these concepts in the table below.
