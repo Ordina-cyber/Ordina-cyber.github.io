@@ -19,6 +19,61 @@ Image below is example of a common risk assessment approach, risk heat map (or r
 
 **Risk Heat Map**
 
+<style>
+.equilibrium{
+  width: 100%;
+  border: 1px solid #999;
+  border-right: none;
+  border-bottom: none;
+  background: lightgrey;
+}
+
+.equilibrium td{
+    border-right: 1px solid #999;
+    border-bottom: 1px solid #999;
+}
+
+.equilibrium td{
+  position: relative;
+  height: 200px;
+}
+
+.equilibrium .sup{
+  display: block;
+  position: relative;
+  width: 50%;
+  float: right;
+  padding-bottom: 15%;
+  line-height: 100%;
+  text-align: center;
+  z-index: 1;
+}
+
+.equilibrium .inf{
+  display: block;
+  position: relative;
+  width: 50%;
+  float: left;
+  padding-top: 15%;
+  line-height: 100%;
+  text-align: center;
+  z-index: 1;
+}
+
+.equilibrium td::after{
+  content: "";
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255,255,255,.5);
+  background-size: cover;
+  clip-path: polygon(0% 100%, 0% 0%, 100% 100%);
+}
+</style>
+
 <table>
 <colgroup>
 <col style="width: 30%" />
@@ -28,8 +83,8 @@ Image below is example of a common risk assessment approach, risk heat map (or r
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>Impact</p>
-<p>Likelihood</p></th>
+<th><span class="sup">Impact</span>
+        <span class="inf">Likelihood</span></th>
 <th>Low - 1</th>
 <th>Medium - 2</th>
 <th>High - 3</th>
@@ -57,7 +112,7 @@ Image below is example of a common risk assessment approach, risk heat map (or r
 </tbody>
 </table>
 
-<br><br>
+<br>
 ## Problem is not Risk
 
 There are several terms often get confused with risk. Let’s check these concepts in the table below.
