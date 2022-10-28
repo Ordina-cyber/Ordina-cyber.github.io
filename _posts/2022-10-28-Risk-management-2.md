@@ -25,7 +25,7 @@ COSO (Committee of Sponsoring Organizations of the Treadway Commission), an init
 
 The COSO Cube
 
-<img src="../assets/images/Posts/RiskManagement/image1.png" style="margin:O auto; display: block; max-height:350px;" />
+<img src="../assets/images/Posts/RiskManagement/image1.png" style="margin:0 auto; display: block; max-height:350px;" />
 
 The COSO framework provides 3 objective categories;
 
