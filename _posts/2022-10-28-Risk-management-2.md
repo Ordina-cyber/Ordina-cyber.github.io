@@ -62,7 +62,7 @@ COSO ERM (2017) Components
 <th>Information, Communication, and Reporting</th>
 </tr>
 </thead>
-<tbody>
+<tbody style="vertical-align: top;">
 <tr class="odd">
 <td><p>1. Exercises Board Risk Oversight</p>
 <p>2. Establishes Operating Structures</p>
