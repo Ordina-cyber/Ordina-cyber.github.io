@@ -25,7 +25,7 @@ COSO (Committee of Sponsoring Organizations of the Treadway Commission), an init
 
 The COSO Cube
 
-<img src="assets/images/Posts/RiskManagement/image1.png" style="margin: O auto;" />
+<img src="../assets/images/Posts/RiskManagement/image1.png" style="margin: O auto;" />
 
 The COSO framework provides 3 objective categories;
 
@@ -67,31 +67,21 @@ COSO ERM (2017) Components
 <td><p>1. Exercises Board Risk Oversight</p>
 <p>2. Establishes Operating Structures</p>
 <p>3. Defines Desired Culture</p>
-<p>4. Demonstrates</p>
-<p>Commitment to Core Values</p>
-<p>5. Attracts, Develops,</p>
-<p>and Retains Capable</p>
-<p>Individuals</p></td>
-<td><p>6. Analyzes Business</p>
-<p>Context</p>
+<p>4. Demonstrates Commitment to Core Values</p>
+<p>5. Attracts, Develops, and Retains Capable Individuals</p></td>
+<td><p>6. Analyzes Business Context</p>
 <p>7. Defines Risk Appetite</p>
 <p>8. Evaluates Alternative Strategies</p>
 <p>9. Formulates Business Objectives</p></td>
 <td><p>10. Identifies Risk</p>
-<p>11. Assesses Severity</p>
-<p>of Risk</p>
+<p>11. Assesses Severity of Risk</p>
 <p>12. Prioritizes Risks</p>
-<p>13. Implements Risk</p>
-<p>Responses</p>
-<p>14. Develops Portfolio</p>
-<p>View</p></td>
+<p>13. Implements Risk Responses</p>
+<p>14. Develops Portfolio View</p></td>
 <td><p>15. Assesses Substantial Change</p>
-<p>16. Reviews Risk and</p>
-<p>Performance</p>
-<p>17. Pursues Improvement in Enterprise Risk</p>
-<p>Management</p></td>
-<td><p>18. Leverages Information</p>
-<p>and Technology</p>
+<p>16. Reviews Risk and Performance</p>
+<p>17. Pursues Improvement in Enterprise Risk Management</p></td>
+<td><p>18. Leverages Information and Technology</p>
 <p>19. Communicates Risk Information</p>
 <p>20. Reports on Risk, Culture, and Performance</p></td>
 </tr>
