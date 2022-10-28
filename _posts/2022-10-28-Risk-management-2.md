@@ -87,7 +87,7 @@ COSO ERM (2017) Components
 </tr>
 </tbody>
 </table>
-
+<br>
 ### If you need any assistance or have any questions regarding Risk management or cybersecurity in general, feel free to [contact us](https://www.ordina.be/diensten/security-and-privacy/).
 
 ***Reference***
