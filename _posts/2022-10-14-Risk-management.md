@@ -114,6 +114,8 @@ By the way, the ISO 31000 risk definition *“effect of uncertainty on objective
 
 Reducing risks may ruin opportunities of the positive effect too. That is why risk appetite *(*ISO 31000:2018 refers *“amount and type of risk that may or may not be taken”*) must be established based on the company’s context, and commitment of the management is essential for it. Risk management is indivisible from business strategy, so to say.
 
+### If you need any assistance or have any questions regarding Risk management or cybersecurity in general, feel free to [contact us](https://www.ordina.be/diensten/security-and-privacy/).
+
 ***Reference***
 
 *ISO 31000:2018 Risk management — Guidelines, https://www.iso.org/iso-31000-risk-management.html*

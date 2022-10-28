@@ -88,8 +88,10 @@ COSO ERM (2017) Components
 </tbody>
 </table>
 
-**Reference**
+### If you need any assistance or have any questions regarding Risk management or cybersecurity in general, feel free to [contact us](https://www.ordina.be/diensten/security-and-privacy/).
 
-ISO 31000:2018 Risk management — Guidelines, https://www.iso.org/iso-31000-risk-management.html
+***Reference***
 
-Committee of Sponsoring Organizations of the Treadway Commission (COSO), https://www.coso.org/SitePages/Home.aspx
+*ISO 31000:2018 Risk management — Guidelines, https://www.iso.org/iso-31000-risk-management.html*
+
+*Committee of Sponsoring Organizations of the Treadway Commission (COSO), https://www.coso.org/SitePages/Home.aspx*
