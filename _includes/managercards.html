@@ -2,7 +2,7 @@
 <div class="cardcontainer">
     {% for authorEntry in site.data.authors %}
     {% assign author = authorEntry[1] %}
-    {% if author.name == "Mark Vandenwauver" or author.name == "Anne-Mie Truyen" %}
+    {% if author.name == "Mark Vandenwauver" or author.name == "X" %}
     <!-- Get variables from object as string -->
     {% capture Name %}{{ author.name | handleize }}{% endcapture %}
     {% capture Image %}{{ author.avatar | handleize }}{% endcapture %}

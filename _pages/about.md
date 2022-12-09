@@ -35,7 +35,7 @@ If you happen to read this blog out of your own interest you might be glad to he
 
 <br><br>
 
-If you have any questions or remarks about this blog, a request for your company or want to apply for a job at Ordina please contact Mark (CISO & Business Unit Manager) or Anne-Mie (HR Business Partner) using one of the links on their cards below.
+If you have any questions or remarks about this blog, a request for your company or want to apply for a job at Ordina please contact Mark (CISO & Business Unit Manager).
 
 </div>
 
