@@ -253,6 +253,15 @@ tim_de_brouwere:
   position: Security Consultant
   description: "Thanks to his IT and Security experience, Tim has a broad knowledge in building security systems, red teaming exercises, and general information security."
   active: true
+nico_vermaelen:
+  name: Nico Vermaelen
+  display_name: Nico Vermaelen
+  avatar: 'assets/images/Nico_Vermaelen.jpg'
+  web: https://www.linkedin.com/in/nicovermaelen/
+  email: nico.vermaelen@ordina.be
+  position: Security Consultant
+  description: ""
+  active: true
 ordina:
   name: Ordina
   display_name: Ordina

@@ -5,7 +5,7 @@ author: "kozue_connor"
 categories: [ security-management ]
 image: assets/images/isovsnist.jpg
 description: "Risk Management for Security Professionals 1 : What is Risk?"
-featured: true
+featured: false
 hidden: false
 ---
 
