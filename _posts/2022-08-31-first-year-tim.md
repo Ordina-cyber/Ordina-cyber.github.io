@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first year as a Security Consultant at Ordina"
+title:  "Tim's first year as a Security Consultant at Ordina"
 author: tim_de_brouwere
 categories: [ interview, Ordina ]
 image: assets/images/Ordina_hoofdkantoor.jpeg
