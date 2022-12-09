@@ -3,7 +3,7 @@ layout: post
 title: "Timescales for ISO/IEC 27001 Transition have been Formally Announced"
 author: "kozue_connor"
 categories: [ security-management ]
-image: assets/images/isovsnist.jpg
+image: assets/images/random-office-white.jpg
 description: "Timescales for ISO/IEC 27001 Transition have been Formally Announced"
 featured: false
 hidden: false
