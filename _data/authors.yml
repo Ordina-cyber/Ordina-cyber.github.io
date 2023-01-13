@@ -262,6 +262,15 @@ nico_vermaelen:
   position: Security Consultant
   description: "While graduated with a Master’s degree in Criminology and a dissertation about cybercrime, Nico has developed a lifelong interest and experience in multiple IT domains. He started his career as a Validation consultant for pharmaceutical companies and further expanded his knowledge in the fields of Quality and Compliance and Data Integrity. Since 2021 he transitioned to the Security area to support Ordina and their clients with their next challenges."
   active: true
+murat_kokcu:
+  name: Murat Kokcu
+  display_name: Murat Kokcu
+  avatar: 'assets/images/Murat_Kokcu.jpeg'
+  web: https://www.linkedin.com/in/emuratkokcu/
+  email: murat.kokcu@ordina.be
+  position: Security Consultant
+  description: ""
+  active: true
 ordina:
   name: Ordina
   display_name: Ordina

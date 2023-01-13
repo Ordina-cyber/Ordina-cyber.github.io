@@ -5,7 +5,7 @@ author: "kozue_connor"
 categories: [ security-management ]
 image: assets/images/isovsnist.jpg
 description: "Risk Management for Security Professionals 2: Internal Control and Risk Management"
-featured: true
+featured: false
 hidden: false
 ---
 
