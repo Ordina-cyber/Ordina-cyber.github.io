@@ -35,7 +35,7 @@ It is important to know these EU strategies to understand the principles and pri
 
 ### If you need any assistance or have any questions regarding cybersecurity, feel free to [contact us](https://www.ordina.be/diensten/security-and-privacy/).
 
-### *References:*
+***References:***
 
 1.  *[Second Additional Protocol to the Convention on Cybercrime on enhanced co’operation and disclosure of electronic evidence](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=224)*
 
