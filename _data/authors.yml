@@ -271,6 +271,15 @@ murat_kokcu:
   position: Security Consultant
   description: ""
   active: true
+angeliki_zagoriti:
+  name: Angeliki Zagoriti
+  display_name: Angeliki Zagoriti
+  avatar: 'assets/images/Angeliki_Zagoriti.jpeg'
+  web: https://www.linkedin.com/in/angeliki-zagoriti-a89a4a165/
+  email: angeliki.zagoriti@ordina.be
+  position: Security Consultant
+  description: ""
+  active: true
 ordina:
   name: Ordina
   display_name: Ordina
