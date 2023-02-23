@@ -9,7 +9,7 @@ featured: true
 hidden: false
 ---
 
-OCyber security is a major global issue, and it is the case in Europe. In order to deal cyber threats, it is important to know how the European Union (EU) perceives these threats.
+Cyber security is a major global issue, and it is the case in Europe. In order to deal cyber threats, it is important to know how the European Union (EU) perceives these threats.
 
 The EU's approach to cyber threats is mainly reflected in the EU strategies and legal documents. Before looking into them, I will introduce the Budapest Convention (formally Convention on Cybercrime) (2001) and the EU strategies.
 
